@@ -1,4 +1,12 @@
 # awesome-voice-conversion
+## Conferences
+#### Tier 1
+ICLR  ICML NeuraIPS  AAAI  IJAI  **ISMIR**
+#### Tier 2+
+ICASSP  
+#### Tier 2-
+INTERSPEECH 
+
 ## Singing Voice Conversion (key words: SVC, Singing Style Transfer)
 - [StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion](https://arxiv.org/abs/2107.10394) | **INTERSPEECH 2021 Best Paper Award** [**Open**]
   + [yl4579/StarGANv2-VC](https://github.com/yl4579/StarGANv2-VC) | [**PyTorch**]
@@ -13,16 +21,17 @@
 
 
 
-## Reference:
+## Reference
 - [低調奮進TTS](http://yqli.tech/page/tts_paper.html)
 - [Awesome-Voice-Conversion-Papers-Projects](https://github.com/JeffC0628/awesome-voice-conversion)
 - [paperswithcode :singing voice conversion](https://paperswithcode.com/search?q_meta=&q_type=&q=singing+voice+conversion)
 - [语音合成（speech syn)方向六：歌唱合成（singing voice synthesis)](https://zhuanlan.zhihu.com/p/342079143)
 - [歌唱转换2019-2020文章](https://blog.csdn.net/qq_40168949/article/details/113608810)
 
-## Misc:
+## Misc
 - [Assem-VC — Official PyTorch Implementation](https://github.com/mindslab-ai/assem-vc)
 - [1-08 - Zero-shot Singing Voice Conversion](https://program.ismir2020.net/poster_1-08.html)
 - [Towards High-fidelity Singing Voice Conversion with Acoustic Reference and Contrastive Predictive Coding](https://arxiv.org/abs/2110.04754)
   + [TOWARDS HIGH-FIDELITY SINGING VOICE CONVERSION WITH ACOUSTICREFERENCE AND CONTRASTIVE PREDICTIVE CODING](https://georgehappy1.github.io/svcdemo/) | [Demo]
 - [AUTOVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss](https://arxiv.org/abs/1905.05879)
+
