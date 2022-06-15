@@ -12,7 +12,7 @@ INTERSPEECH
   + [yl4579/StarGANv2-VC](https://github.com/yl4579/StarGANv2-VC) | [**PyTorch**]
   + [StarGANv2-VC Audio Demo](https://starganv2-vc.github.io/) | [Demo]
 
-- [Unsupervised WaveNet-based Singing Voice Conversion Using Pitch Augmentation and Two-phase Approach](https://github.com/SongRongLee/mir-svc) | **張智星Lab學生碩論**
+- [Unsupervised WaveNet-based Singing Voice Conversion Using Pitch Augmentation and Two-phase Approach](https://github.com/SongRongLee/mir-svc) | 張智星Lab學生碩論 [**Open**]
   + [Singing Voice Conversion Demo](https://songronglee.github.io/singing-voice-conversion/) | [Demo]
 
 - [DurIAN-SC: Duration Informed Attention Network based Singing Voice Conversion System](https://arxiv.org/abs/2008.03009) | **Interspeech 2020** [Non Open]
