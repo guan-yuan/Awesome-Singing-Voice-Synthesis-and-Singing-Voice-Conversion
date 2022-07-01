@@ -1,4 +1,4 @@
-# awesome-voice-conversion
+# awesome-singing-voice-synthesis-and-conversion
 ## Conferences
 #### Tier 1
 ICLR  ICML NeuraIPS  AAAI  IJAI  **ISMIR**
