@@ -7,6 +7,12 @@ ICASSP
 #### Tier 2-
 INTERSPEECH 
 
+
+## Singing Voice Synthesis
+- [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) | **AAAI 2022** [**Open**]
+  + [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://github.com/MoonInTheRiver/DiffSinger) | [**PyTorch**]
+  + [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://diffsinger.github.io/) | [Demo]
+
 ## Singing Voice Conversion (key words: SVC, Singing Style Transfer)
 - [StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion](https://arxiv.org/abs/2107.10394) | **INTERSPEECH 2021 Best Paper Award** [**Open**]
   + [yl4579/StarGANv2-VC](https://github.com/yl4579/StarGANv2-VC) | [**PyTorch**]
@@ -20,13 +26,13 @@ INTERSPEECH
   + [语音合成（TTS)论文优选：DurIAN-SC: Duration Informed Attention Network based Singing Voice Conversion System](https://blog.csdn.net/liyongqiang2420/article/details/111825132) | [Note]
 
 
-
 ## Reference
 - [低調奮進TTS](http://yqli.tech/page/tts_paper.html)
 - [Awesome-Voice-Conversion-Papers-Projects](https://github.com/JeffC0628/awesome-voice-conversion)
 - [paperswithcode :singing voice conversion](https://paperswithcode.com/search?q_meta=&q_type=&q=singing+voice+conversion)
 - [语音合成（speech syn)方向六：歌唱合成（singing voice synthesis)](https://zhuanlan.zhihu.com/p/342079143)
 - [歌唱转换2019-2020文章](https://blog.csdn.net/qq_40168949/article/details/113608810)
+
 
 ## Misc
 - [Assem-VC — Official PyTorch Implementation](https://github.com/mindslab-ai/assem-vc)
