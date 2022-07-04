@@ -16,8 +16,6 @@ INTERSPEECH
   + [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://github.com/MoonInTheRiver/DiffSinger) | [**PyTorch**]
   + [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://diffsinger.github.io/) | [Demo]
 
-- []()
-
 - [Sinsy: A Deep Neural Network-Based Singing Voice Synthesis System](https://arxiv.org/abs/2108.02776) | **IEEE/ACM Transactions on Audio, Speech and Language Processing** [**Open**]
   + [Neural network-based singing voice synthesis library for research](https://github.com/r9y9/nnsvs) | [**PyTorch**]
 
