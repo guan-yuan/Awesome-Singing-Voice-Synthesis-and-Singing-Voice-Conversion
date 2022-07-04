@@ -19,6 +19,10 @@ INTERSPEECH
 - [Sinsy: A Deep Neural Network-Based Singing Voice Synthesis System](https://arxiv.org/abs/2108.02776) | **IEEE/ACM Transactions on Audio, Speech and Language Processing** [**Open**]
   + [Neural network-based singing voice synthesis library for research](https://github.com/r9y9/nnsvs) | [**PyTorch**]
 
+### Dateset
+- [Opencpop](https://wenet.org.cn/opencpop/)
+- [PopCS](https://github.com/MoonInTheRiver/DiffSinger/blob/master/resources/apply_form.md)
+
 ## Singing Voice Conversion (key words: SVC, Singing Style Transfer)
 - [StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion](https://arxiv.org/abs/2107.10394) | **INTERSPEECH 2021 Best Paper Award** [**Open**]
   + [yl4579/StarGANv2-VC](https://github.com/yl4579/StarGANv2-VC) | [**PyTorch**]
