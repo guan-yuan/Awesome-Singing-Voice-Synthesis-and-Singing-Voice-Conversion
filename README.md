@@ -1,7 +1,7 @@
 # awesome-singing-voice-synthesis-and-conversion
 ## Conferences
 #### Tier 1
-ICLR  ICML NeuraIPS  AAAI  IJAI  **ISMIR**
+ICLR  ICML NeuraIPS  AAAI  IJAI  ACL NAACL EMNLP **ISMIR**
 #### Tier 2+
 ICASSP  
 #### Tier 2-
@@ -9,9 +9,17 @@ INTERSPEECH
 
 
 ## Singing Voice Synthesis
+- [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://arxiv.org/abs/2202.13277) | **ACL 2022** [**Open**]
+  + [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://github.com/moonintheriver/neuralsvb) | [**PyTorch**]
+
 - [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) | **AAAI 2022** [**Open**]
   + [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://github.com/MoonInTheRiver/DiffSinger) | [**PyTorch**]
   + [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://diffsinger.github.io/) | [Demo]
+
+- []()
+
+- [Sinsy: A Deep Neural Network-Based Singing Voice Synthesis System](https://arxiv.org/abs/2108.02776) | **IEEE/ACM Transactions on Audio, Speech and Language Processing** [**Open**]
+  + [Neural network-based singing voice synthesis library for research](https://github.com/r9y9/nnsvs) | [**PyTorch**]
 
 ## Singing Voice Conversion (key words: SVC, Singing Style Transfer)
 - [StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion](https://arxiv.org/abs/2107.10394) | **INTERSPEECH 2021 Best Paper Award** [**Open**]
