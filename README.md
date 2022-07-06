@@ -20,7 +20,8 @@ INTERSPEECH
   + [Neural network-based singing voice synthesis library for research](https://github.com/r9y9/nnsvs) | [**PyTorch**]
 
 ### Dateset
-- [Opencpop](https://wenet.org.cn/opencpop/)
+- [Opencpop: A High-Quality Open Source Chinese Popular Song Corpus for Singing Voice Synthesis](https://arxiv.org/abs/2201.07429)
+  + [Opencpop](https://wenet.org.cn/opencpop/)
 - [PopCS](https://github.com/MoonInTheRiver/DiffSinger/blob/master/resources/apply_form.md)
 
 ## Singing Voice Conversion (key words: SVC, Singing Style Transfer)
