@@ -10,12 +10,12 @@ INTERSPEECH
 
 ## Singing Voice Synthesis
 - [Learn2Sing 2.0: Diffusion and Mutual Information-Based Target Speaker SVS by Learning from Singing Teacher](https://arxiv.org/abs/2203.16408) | **INTERSPEECH 2022** [**Open**]
-  + [Learn2Sing 2.0](https://welkinyang.github.io/Learn2Sing2.0/)
+  + [Learn2Sing 2.0](https://welkinyang.github.io/Learn2Sing2.0/) | [**PyTorch**]
 
 - [Muskits: an End-to-End Music Processing Toolkit for Singing Voice Synthesis](https://arxiv.org/abs/2205.04029) | **INTERSPEECH 2022** [**Open**]
-  + [Muskit: Open-source music processing toolkits](https://github.com/SJTMusicTeam/Muskits)
+  + [Muskit: Open-source music processing toolkits](https://github.com/SJTMusicTeam/Muskits) | [**PyTorch**]
 
-- [SingAug: Data Augmentation for Singing Voice Synthesis with Cycle-consistent Training Strategy](https://arxiv.org/abs/2203.17001) | **arXiv** [**Open**]
+- [SingAug: Data Augmentation for Singing Voice Synthesis with Cycle-consistent Training Strategy](https://arxiv.org/abs/2203.17001) | arXiv [**Open**]
   + [Muskit: Open-source music processing toolkits](https://github.com/SJTMusicTeam/Muskits)
 
 - [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://arxiv.org/abs/2202.13277) | **ACL 2022** [**Open**]
