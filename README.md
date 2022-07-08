@@ -1,7 +1,7 @@
 # awesome-singing-voice-synthesis-and-conversion
 ## Conferences
 #### Tier 1
-ICLR  ICML NeuraIPS  AAAI  IJAI  ACL NAACL EMNLP **ISMIR**
+ICLR  ICML NeuraIPS  AAAI  IJAI  ACL NAACL EMNLP ISMIR
 #### Tier 2+
 ICASSP  
 #### Tier 2-
