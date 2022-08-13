@@ -1,4 +1,4 @@
-# awesome-singing-voice-synthesis-and-conversion
+# Awesome Singing Voice Conversion and Synthesis
 ## Conferences
 #### Tier 1
 ICLR  ICML NeuraIPS  AAAI  IJAI  ACL NAACL EMNLP ISMIR
