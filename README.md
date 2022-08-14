@@ -27,6 +27,10 @@ ASRU
 - [Towards High-fidelity Singing Voice Conversion with Acoustic Reference and Contrastive Predictive Coding](https://arxiv.org/abs/2110.04754) | 2021
   + [Demo](https://georgehappy1.github.io/svcdemo/)
 
+- [Phonetic Posteriorgrams based Many-to-Many Singing Voice Conversion via Adversarial Training](https://arxiv.org/abs/2012.01837) | 2020
+  + [Demo](https://hhguo.github.io/DemoEASVC/)
+  + [Unofficial Code](https://github.com/hhguo/EA-SVC)
+ 
 - [Zero-shot Singing Voice Conversion](https://program.ismir2020.net/poster_1-08.html) | **ISMIR 2020**
   + [Demo](https://sites.google.com/izotope.com/ismir2020-audio-demo)
 
