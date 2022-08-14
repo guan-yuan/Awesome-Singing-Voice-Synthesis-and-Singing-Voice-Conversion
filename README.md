@@ -43,6 +43,10 @@ ASRU
 - [DurIAN-SC: Duration Informed Attention Network based Singing Voice Conversion System](https://arxiv.org/abs/2008.03009) | **INTERSPEECH 2020**
   + [Demo](https://tencent-ailab.github.io/learning_singing_from_speech/)
 
+### Dateset
+- [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](https://openreview.net/forum?id=qiDmAaG6mP) | **NeurIPS 2022**
+  + [Apply&Download](https://github.com/M4Singer/M4Singer)
+  + [Demo](https://m4singer.github.io/)
 
 ## Voice Conversion (Other Key Words: VC, Voice Cloning)
 - [YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone](https://arxiv.org/abs/2112.02418) | **ICML 2022** [✔️**With Code**]
@@ -98,6 +102,7 @@ ASRU
 ### Dateset
 - [Opencpop: A High-Quality Open Source Chinese Popular Song Corpus for Singing Voice Synthesis](https://arxiv.org/abs/2201.07429) | **INTERSPEECH 2022**
   + [Apply&Download](https://wenet.org.cn/opencpop/)
+  
 - [PopCS](https://arxiv.org/abs/2105.02446) | **AAAI 2022**
   + [Apply&Download](https://github.com/MoonInTheRiver/DiffSinger/blob/master/resources/apply_form.md)
 
