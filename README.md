@@ -74,6 +74,10 @@ TASLP
   + [Code](https://github.com/howard1337/S2VC)
   + [Demo](https://howard1337.github.io/S2VC/)
 
+- [Many-to-Many Voice Conversion based Feature Disentanglement using Variational Autoencoder](https://arxiv.org/abs/2107.06642) | **INTERSPEECH 2021** [✔️**With Code**]
+  + [Code](https://github.com/v-manhlt3/Disentangle-VAE-for-VC)
+  + [Demo](https://v-manhlt3.github.io/disentangled-VAE/)
+
 - [On Prosody Modeling for ASR+TTS based Voice Conversion](https://arxiv.org/abs/2107.09477) | **ASRU 2021**
   + [Demo](https://unilight.github.io/Publication-Demos/publications/prosody-asr-tts-vc/index.html)
 
