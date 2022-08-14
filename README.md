@@ -10,11 +10,11 @@ ASRU
 
 
 ## Singing Voice Conversion (Other Key Words: SVC, Singing Style Transfer)
-- [Learn2Sing 2.0: Diffusion and Mutual Information-Based Target Speaker SVS by Learning from Singing Teacher](https://arxiv.org/abs/2203.16408) | **INTERSPEECH 2022** [😎**With Code**]
+- [Learn2Sing 2.0: Diffusion and Mutual Information-Based Target Speaker SVS by Learning from Singing Teacher](https://arxiv.org/abs/2203.16408) | **INTERSPEECH 2022** [✔️**With Code**]
   + [Code](https://github.com/WelkinYang/Learn2Sing2.0)
   + [Demo](https://welkinyang.github.io/Learn2Sing2.0/)
 
-- [Unsupervised WaveNet-based Singing Voice Conversion Using Pitch Augmentation and Two-phase Approach](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1107202111044100) | 2021 [😎**With Code**]
+- [Unsupervised WaveNet-based Singing Voice Conversion Using Pitch Augmentation and Two-phase Approach](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1107202111044100) | 2021 [✔️**With Code**]
   + [Code](https://github.com/SongRongLee/mir-svc)
   + [Demo](https://songronglee.github.io/singing-voice-conversion/)
 
@@ -22,26 +22,26 @@ ASRU
   + [Demo](https://tencent-ailab.github.io/learning_singing_from_speech/)
 
 ## Voice Conversion (Other Key Words: VC, Voice Cloning)
-- [StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion](https://arxiv.org/abs/2107.10394) | **INTERSPEECH 2021 Best Paper Award** [😎**With Code**]
+- [StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion](https://arxiv.org/abs/2107.10394) | **INTERSPEECH 2021 Best Paper Award** [✔️**With Code**]
   + [Code](https://github.com/yl4579/StarGANv2-VC)
   + [Demo](https://starganv2-vc.github.io/)
 
 ## Singing Voice Synthesis (Other Key Words: SVS)
-- [Muskits: an End-to-End Music Processing Toolkit for Singing Voice Synthesis](https://arxiv.org/abs/2205.04029) | **INTERSPEECH 2022** [😎**With Code**]
+- [Muskits: an End-to-End Music Processing Toolkit for Singing Voice Synthesis](https://arxiv.org/abs/2205.04029) | **INTERSPEECH 2022** [✔️**With Code**]
   + [Code](https://github.com/SJTMusicTeam/Muskits)
 
-- [SingAug: Data Augmentation for Singing Voice Synthesis with Cycle-consistent Training Strategy](https://arxiv.org/abs/2203.17001) | **INTERSPEECH 2022** [😎**With Code**]
+- [SingAug: Data Augmentation for Singing Voice Synthesis with Cycle-consistent Training Strategy](https://arxiv.org/abs/2203.17001) | **INTERSPEECH 2022** [✔️**With Code**]
   + [Code](https://github.com/SJTMusicTeam/Muskits)
 
-- [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://arxiv.org/abs/2202.13277) | **ACL 2022** [😎**With Code**]
+- [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://arxiv.org/abs/2202.13277) | **ACL 2022** [✔️**With Code**]
   + [Code](https://github.com/MoonInTheRiver/NeuralSVB)
   + [Demo](https://neuralsvb.github.io/)
 
-- [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) | **AAAI 2022** [😎**With Code**]
+- [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) | **AAAI 2022** [✔️**With Code**]
   + [Code](https://github.com/MoonInTheRiver/DiffSinger)
   + [Demo](https://diffsinger.github.io/)
 
-- [Sinsy: A Deep Neural Network-Based Singing Voice Synthesis System](https://arxiv.org/abs/2108.02776) | **IEEE/ACM Transactions on Audio, Speech, and Language Processing 2021** [😎**With Code**]
+- [Sinsy: A Deep Neural Network-Based Singing Voice Synthesis System](https://arxiv.org/abs/2108.02776) | **IEEE/ACM Transactions on Audio, Speech, and Language Processing 2021** [✔️**With Code**]
   + [Code](https://github.com/r9y9/nnsvs)
 
 ### Dateset
