@@ -35,6 +35,12 @@ ASRU
 
 
 ## Voice Conversion (Other Key Words: VC, Voice Cloning)
+- [YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone](https://arxiv.org/abs/2112.02418) | **ICML 2022** [✔️**With Code**]
+  + [Code](https://github.com/edresson/yourtts)
+  + [Demo](https://huggingface.co/spaces/ICML2022/YourTTS)
+  + [Demo](https://edresson.github.io/YourTTS/)
+  + [Blog](https://coqui.ai/blog/tts/yourtts-zero-shot-text-synthesis-low-resource-languages)
+
 - [Assem-VC: Realistic Voice Conversion by Assembling Modern Speech Synthesis Techniques](https://arxiv.org/abs/2104.00931) | **ICASSP 2022** [✔️**With Code**]
   + [Code](https://github.com/mindslab-ai/assem-vc)
   + [Demo](https://mindslab-ai.github.io/assem-vc/)
