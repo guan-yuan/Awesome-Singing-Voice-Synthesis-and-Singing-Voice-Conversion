@@ -8,7 +8,7 @@ IEEE/ACM TASLP,
 
 
 ## Conferences
-NeuraIPS, ICLR, ICML, IJAI, AAAI, ISMIR, ACL, NAACL, EMNLP, ICASSP, INTERSPEECH, ACM MM
+NeuraIPS, ICLR, ICML, IJAI, AAAI, ACL, NAACL, EMNLP, ISMIR, ICASSP, INTERSPEECH, ACM MM
 
 
 ## Workshops
@@ -34,23 +34,24 @@ ASRU,
 - [Towards High-fidelity Singing Voice Conversion with Acoustic Reference and Contrastive Predictive Coding](https://arxiv.org/abs/2110.04754) | 2021
   + [Demo](https://georgehappy1.github.io/svcdemo/)
 
+- [Zero-shot Singing Voice Conversion](https://program.ismir2020.net/poster_1-08.html) | **ISMIR 2020**
+  + [Demo](https://sites.google.com/izotope.com/ismir2020-audio-demo)
+
 - [PitchNet: Unsupervised Singing Voice Conversion with Pitch Adversarial Network](https://arxiv.org/abs/1912.01852) | **ICASSP 2020**
   + [Demo](https://tencent-ailab.github.io/pitch-net/)
+
+- [DurIAN-SC: Duration Informed Attention Network based Singing Voice Conversion System](https://arxiv.org/abs/2008.03009) | **INTERSPEECH 2020**
+  + [Demo](https://tencent-ailab.github.io/learning_singing_from_speech/)
 
 - [Phonetic Posteriorgrams based Many-to-Many Singing Voice Conversion via Adversarial Training](https://arxiv.org/abs/2012.01837) | 2020
   + [Demo](https://hhguo.github.io/DemoEASVC/)
   + [Unofficial Code](https://github.com/hhguo/EA-SVC)
- 
-- [Zero-shot Singing Voice Conversion](https://program.ismir2020.net/poster_1-08.html) | **ISMIR 2020**
-  + [Demo](https://sites.google.com/izotope.com/ismir2020-audio-demo)
-
-- [DurIAN-SC: Duration Informed Attention Network based Singing Voice Conversion System](https://arxiv.org/abs/2008.03009) | **INTERSPEECH 2020**
-  + [Demo](https://tencent-ailab.github.io/learning_singing_from_speech/)
 
 ### Dateset
 - [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](https://openreview.net/forum?id=qiDmAaG6mP) | **NeurIPS 2022**
   + [Apply&Download](https://github.com/M4Singer/M4Singer)
   + [Demo](https://m4singer.github.io/)
+
 
 ## Voice Conversion (Other Key Words: VC, Voice Cloning, Voice Style Transfer)
 - [End-to-End Zero-Shot Voice Style Transfer with Location-Variable Convolutions](https://arxiv.org/abs/2205.09784) | 2022
@@ -75,6 +76,10 @@ ASRU,
 - [Global Rhythm Style Transfer Without Text Transcriptions](https://arxiv.org/abs/2106.08519) | **ICML 2021** [✔️**With Code**]
   + [Code](https://github.com/auspicious3000/AutoPST)
 
+- [StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion](https://arxiv.org/abs/2107.10394) | **INTERSPEECH 2021 Best Paper Award** [✔️**With Code**]
+  + [Code](https://github.com/yl4579/StarGANv2-VC)
+  + [Demo](https://starganv2-vc.github.io/)
+
 - [S2VC: A Framework for Any-to-Any Voice Conversion with Self-Supervised Pretrained Representations](https://arxiv.org/abs/2104.02901) | **INTERSPEECH 2021** [✔️**With Code**]
   + [Code](https://github.com/howard1337/S2VC)
   + [Demo](https://howard1337.github.io/S2VC/)
@@ -91,28 +96,24 @@ ASRU,
 - [Unsupervised Speech Decomposition via Triple Information Bottleneck](https://arxiv.org/abs/2004.11284) | **ICML 2020** [✔️**With Code**]
   + [Code](https://github.com/auspicious3000/SpeechSplit)
 
-- [StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion](https://arxiv.org/abs/2107.10394) | **INTERSPEECH 2021 Best Paper Award** [✔️**With Code**]
-  + [Code](https://github.com/yl4579/StarGANv2-VC)
-  + [Demo](https://starganv2-vc.github.io/)
-
 - [AUTOVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss](https://arxiv.org/abs/1905.05879) | **ICML 2019** [✔️**With Code**]
   + [Code](https://github.com/auspicious3000/autovc)
 
 
 ## Singing Voice Synthesis (Other Key Words: SVS)
-- [Muskits: an End-to-End Music Processing Toolkit for Singing Voice Synthesis](https://arxiv.org/abs/2205.04029) | **INTERSPEECH 2022** [✔️**With Code**]
-  + [Code](https://github.com/SJTMusicTeam/Muskits)
-
-- [SingAug: Data Augmentation for Singing Voice Synthesis with Cycle-consistent Training Strategy](https://arxiv.org/abs/2203.17001) | **INTERSPEECH 2022** [✔️**With Code**]
-  + [Code](https://github.com/SJTMusicTeam/Muskits)
+- [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) | **AAAI 2022** [✔️**With Code**]
+  + [Code](https://github.com/MoonInTheRiver/DiffSinger)
+  + [Demo](https://diffsinger.github.io/)
 
 - [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://arxiv.org/abs/2202.13277) | **ACL 2022** [✔️**With Code**]
   + [Code](https://github.com/MoonInTheRiver/NeuralSVB)
   + [Demo](https://neuralsvb.github.io/)
 
-- [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) | **AAAI 2022** [✔️**With Code**]
-  + [Code](https://github.com/MoonInTheRiver/DiffSinger)
-  + [Demo](https://diffsinger.github.io/)
+- [Muskits: an End-to-End Music Processing Toolkit for Singing Voice Synthesis](https://arxiv.org/abs/2205.04029) | **INTERSPEECH 2022** [✔️**With Code**]
+  + [Code](https://github.com/SJTMusicTeam/Muskits)
+
+- [SingAug: Data Augmentation for Singing Voice Synthesis with Cycle-consistent Training Strategy](https://arxiv.org/abs/2203.17001) | **INTERSPEECH 2022** [✔️**With Code**]
+  + [Code](https://github.com/SJTMusicTeam/Muskits)
 
 - [Sinsy: A Deep Neural Network-Based Singing Voice Synthesis System](https://arxiv.org/abs/2108.02776) | **IEEE/ACM Transactions on Audio, Speech, and Language Processing 2021** [✔️**With Code**]
   + [Code](https://github.com/r9y9/nnsvs)
