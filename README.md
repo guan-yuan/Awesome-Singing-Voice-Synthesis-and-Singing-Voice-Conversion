@@ -11,6 +11,10 @@ NeuraIPS ICLR ICML IJAI AAAI ISMIR ACL NAACL EMNLP ICASSP INTERSPEECH ACMMM
 ASRU
 
 
+## Journals
+TASLP
+
+
 ## Singing Voice Conversion (Other Key Words: SVC, Singing Style Transfer)
 - [Learn2Sing 2.0: Diffusion and Mutual Information-Based Target Speaker SVS by Learning from Singing Teacher](https://arxiv.org/abs/2203.16408) | **INTERSPEECH 2022** [✔️**With Code**]
   + [Code](https://github.com/WelkinYang/Learn2Sing2.0)
