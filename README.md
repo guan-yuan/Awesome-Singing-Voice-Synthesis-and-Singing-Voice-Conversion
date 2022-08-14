@@ -59,6 +59,10 @@ ASRU,
 
 - [A Comparative Study of Self-supervised Speech Representation Based Voice Conversion](https://arxiv.org/abs/2207.04356) | **IEEE JSTSP 2022**
 
+- [Diffusion-Based Voice Conversion with Fast Maximum Likelihood Sampling Scheme](https://arxiv.org/abs/2109.13821) | **ICLR 2022** [✔️**With Code**]
+  + [Code](https://github.com/huawei-noah/Speech-Backbones)
+  + [Demo](https://diffvc-fast-ml-solver.github.io/)
+
 - [YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone](https://arxiv.org/abs/2112.02418) | **ICML 2022** [✔️**With Code**]
   + [Code](https://github.com/edresson/yourtts)
   + [Demo](https://huggingface.co/spaces/ICML2022/YourTTS)
