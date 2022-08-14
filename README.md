@@ -39,9 +39,15 @@ ASRU
   + [Code](https://github.com/mindslab-ai/assem-vc)
   + [Demo](https://mindslab-ai.github.io/assem-vc/)
 
+- [Global Rhythm Style Transfer Without Text Transcriptions](https://arxiv.org/abs/2106.08519) | **ICML 2021** [✔️**With Code**]
+  + [Code](https://github.com/auspicious3000/AutoPST)
+
 - [StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion](https://arxiv.org/abs/2107.10394) | **INTERSPEECH 2021 Best Paper Award** [✔️**With Code**]
   + [Code](https://github.com/yl4579/StarGANv2-VC)
   + [Demo](https://starganv2-vc.github.io/)
+
+- [AUTOVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss](https://arxiv.org/abs/1905.05879) | **ICML 2019** [✔️**With Code**]
+  + [Code](https://github.com/auspicious3000/autovc)
 
 
 ## Singing Voice Synthesis (Other Key Words: SVS)
@@ -88,8 +94,4 @@ ASRU
 - [Coqui.ai TTS](https://github.com/coqui-ai/TTS)
 
 
-## Misc
-
-
-- [AUTOVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss](https://arxiv.org/abs/1905.05879)
 
