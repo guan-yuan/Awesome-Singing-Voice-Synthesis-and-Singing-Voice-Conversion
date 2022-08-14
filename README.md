@@ -54,6 +54,14 @@ ASRU
 - [Awesome Open Source: Voice Conversion](https://awesomeopensource.com/projects/voice-conversion)
 
 
+## ASR Toolkit
+- [WeNet](https://github.com/wenet-e2e/wenet)
+
+
+## TTS Toolkit
+- [Coqui.ai TTS](https://github.com/coqui-ai/TTS)
+
+
 ## Misc
 - [Assem-VC — Official PyTorch Implementation](https://github.com/mindslab-ai/assem-vc)
 - [1-08 - Zero-shot Singing Voice Conversion](https://program.ismir2020.net/poster_1-08.html)
