@@ -5,6 +5,8 @@ Welcome to PR or contact me via email ([guanyuan@gapp.nthu.edu.tw](guanyuan@gapp
 
 ## Conferences
 NeuraIPS ICLR ICML IJAI AAAI ISMIR ACL NAACL EMNLP ICASSP INTERSPEECH ACMMM
+
+
 ## Workshops
 ASRU
 
@@ -22,8 +24,15 @@ ASRU
   + [Code](https://github.com/SongRongLee/mir-svc)
   + [Demo](https://songronglee.github.io/singing-voice-conversion/)
 
+- [Towards High-fidelity Singing Voice Conversion with Acoustic Reference and Contrastive Predictive Coding](https://arxiv.org/abs/2110.04754) | 2021
+  + [Demo](https://georgehappy1.github.io/svcdemo/)
+
+- [Zero-shot Singing Voice Conversion](https://program.ismir2020.net/poster_1-08.html) | **ISMIR 2020**
+  + [Demo](https://sites.google.com/izotope.com/ismir2020-audio-demo)
+
 - [DurIAN-SC: Duration Informed Attention Network based Singing Voice Conversion System](https://arxiv.org/abs/2008.03009) | **INTERSPEECH 2020**
   + [Demo](https://tencent-ailab.github.io/learning_singing_from_speech/)
+
 
 ## Voice Conversion (Other Key Words: VC, Voice Cloning)
 - [Assem-VC: Realistic Voice Conversion by Assembling Modern Speech Synthesis Techniques](https://arxiv.org/abs/2104.00931) | **ICASSP 2022** [✔️**With Code**]
@@ -33,6 +42,7 @@ ASRU
 - [StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion](https://arxiv.org/abs/2107.10394) | **INTERSPEECH 2021 Best Paper Award** [✔️**With Code**]
   + [Code](https://github.com/yl4579/StarGANv2-VC)
   + [Demo](https://starganv2-vc.github.io/)
+
 
 ## Singing Voice Synthesis (Other Key Words: SVS)
 - [Muskits: an End-to-End Music Processing Toolkit for Singing Voice Synthesis](https://arxiv.org/abs/2205.04029) | **INTERSPEECH 2022** [✔️**With Code**]
@@ -79,9 +89,7 @@ ASRU
 
 
 ## Misc
-- [Assem-VC — Official PyTorch Implementation](https://github.com/mindslab-ai/assem-vc)
-- [1-08 - Zero-shot Singing Voice Conversion](https://program.ismir2020.net/poster_1-08.html)
-- [Towards High-fidelity Singing Voice Conversion with Acoustic Reference and Contrastive Predictive Coding](https://arxiv.org/abs/2110.04754)
-  + [TOWARDS HIGH-FIDELITY SINGING VOICE CONVERSION WITH ACOUSTICREFERENCE AND CONTRASTIVE PREDICTIVE CODING](https://georgehappy1.github.io/svcdemo/) | [Demo]
+
+
 - [AUTOVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss](https://arxiv.org/abs/1905.05879)
 
