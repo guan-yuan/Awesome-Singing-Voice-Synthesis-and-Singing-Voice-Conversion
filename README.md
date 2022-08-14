@@ -106,6 +106,9 @@ ASRU,
 - [AUTOVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss](https://arxiv.org/abs/1905.05879) | **ICML 2019** [✔️**With Code**]
   + [Code](https://github.com/auspicious3000/autovc)
 
+- [One-shot Voice Conversion by Separating Speaker and Content Representations with Instance Normalization](https://arxiv.org/abs/1904.05742) | **INTERSPEECH 2019** [✔️**With Code**]
+  + [Code](https://github.com/cyhuang-tw/AdaIN-VC)
+
 
 ## Singing Voice Synthesis (Other Key Words: SVS)
 - [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) | **AAAI 2022** [✔️**With Code**]
