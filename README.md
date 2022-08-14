@@ -47,6 +47,7 @@ ASRU
 - [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 - [Awesome Voice Conversion Papers Projects](https://github.com/JeffC0628/awesome-voice-conversion)
 - [TTS Papers](http://yqli.tech/page/tts_paper.html)
+- [Speech Synthesis Paper](https://github.com/wenet-e2e/speech-synthesis-paper)
 - [Papers With Code: Voice Conversion](https://paperswithcode.com/task/voice-conversion)
 - [Papers With Code: Singing Voice Conversion](https://paperswithcode.com/search?q_meta=&q_type=&q=singing+voice+conversion)
 - [Papers With Code: Singing Voice Synthesis](https://paperswithcode.com/search?q_meta=&q_type=&q=singing+voice+synthesis)
