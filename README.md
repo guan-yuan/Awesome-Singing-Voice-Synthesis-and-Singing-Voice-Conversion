@@ -52,7 +52,10 @@ IEEE/ACM TASLP,
   + [Apply&Download](https://github.com/M4Singer/M4Singer)
   + [Demo](https://m4singer.github.io/)
 
-## Voice Conversion (Other Key Words: VC, Voice Cloning)
+## Voice Conversion (Other Key Words: VC, Voice Cloning, Voice Style Transfer)
+- [End-to-End Zero-Shot Voice Style Transfer with Location-Variable Convolutions](https://arxiv.org/abs/2205.09784) | 2022
+  + [Demo](https://lvc-vc.github.io/lvc-vc-demo/)
+
 - [YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone](https://arxiv.org/abs/2112.02418) | **ICML 2022** [✔️**With Code**]
   + [Code](https://github.com/edresson/yourtts)
   + [Demo](https://huggingface.co/spaces/ICML2022/YourTTS)
@@ -66,6 +69,8 @@ IEEE/ACM TASLP,
 - [Neural Analysis and Synthesis: Reconstructing Speech from Self-Supervised Representations](https://arxiv.org/abs/2110.14513) | **NeurIPS 2021**
   + [Demo](https://harsh-grenadilla-e40.notion.site/Demo-page-for-NANSY-37d4fd8ffb514765a2b234b04c8fc0f6)
   + [Unofficial Code](https://github.com/dhchoi99/NANSY)
+
+- [Improving Zero-shot Voice Style Transfer via Disentangled Representation Learning](https://arxiv.org/abs/2103.09420) | **ICLR 2021**
 
 - [Global Rhythm Style Transfer Without Text Transcriptions](https://arxiv.org/abs/2106.08519) | **ICML 2021** [✔️**With Code**]
   + [Code](https://github.com/auspicious3000/AutoPST)
