@@ -144,6 +144,11 @@ ASRU,
   + [Code](https://github.com/facebookresearch/CPC_audio)
 
 
+## TTS
+- [RetrieverTTS: Modeling Decomposed Factors for Text-Based Speech Insertion](https://arxiv.org/abs/2206.13865) | **INTERSPEECH 2022**
+  + [Demo](https://ydcustc.github.io/retrieverTTS-demo/)
+
+
 ## ASR Toolkits
 - [S3PRL Toolkit](https://github.com/s3prl/s3prl)
 - [WeNet](https://github.com/wenet-e2e/wenet)
