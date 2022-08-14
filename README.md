@@ -117,6 +117,7 @@ ASRU
 
 ## Competitions
 - [Voice Conversion Challenge 2020](http://www.vc-challenge.org/)
+  + [Apply&Download](https://github.com/nii-yamagishilab/VCC2020-database)
 
 
 ## References
