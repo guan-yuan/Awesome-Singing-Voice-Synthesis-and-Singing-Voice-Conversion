@@ -62,6 +62,10 @@ ASRU
 - [Global Rhythm Style Transfer Without Text Transcriptions](https://arxiv.org/abs/2106.08519) | **ICML 2021** [✔️**With Code**]
   + [Code](https://github.com/auspicious3000/AutoPST)
 
+- [S2VC: A Framework for Any-to-Any Voice Conversion with Self-Supervised Pretrained Representations](https://arxiv.org/abs/2104.02901) | **INTERSPEECH 2021** [✔️**With Code**]
+  + [Code](https://github.com/howard1337/S2VC)
+  + [Demo](https://howard1337.github.io/S2VC/)
+
 - [Unsupervised Speech Decomposition via Triple Information Bottleneck](https://arxiv.org/abs/2004.11284) | **ICML 2020** [✔️**With Code**]
   + [Code](https://github.com/auspicious3000/SpeechSplit)
 
