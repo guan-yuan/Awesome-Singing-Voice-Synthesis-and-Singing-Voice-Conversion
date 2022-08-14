@@ -72,6 +72,9 @@ ASRU,
   + [Code](https://github.com/mindslab-ai/assem-vc)
   + [Demo](https://mindslab-ai.github.io/assem-vc/)
 
+- [Training Robust Zero-Shot Voice Conversion Models with Self-supervised Features](https://arxiv.org/abs/2112.04424) | **ICASSP 2022**
+  + [Demo](https://trungd.github.io/ssl_vc/index.html)
+
 - [Toward Degradation-Robust Voice Conversion](https://arxiv.org/abs/2110.07537) | **ICASSP 2022**
 
 - [Neural Analysis and Synthesis: Reconstructing Speech from Self-Supervised Representations](https://arxiv.org/abs/2110.14513) | **NeurIPS 2021**
