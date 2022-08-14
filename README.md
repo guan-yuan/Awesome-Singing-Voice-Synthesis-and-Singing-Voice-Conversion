@@ -4,7 +4,7 @@ A paper and project list about singing (singing voice synthesis and singing voic
 Welcome to PR or contact me via email ([guanyuan@gapp.nthu.edu.tw](guanyuan@gapp.nthu.edu.tw)) for updating papers and works.
 
 ## Journals
-IEEE/ACM TASLP,
+IEEE/ACM TASLP, IEEE JSTSP, 
 
 
 ## Conferences
@@ -56,6 +56,8 @@ ASRU,
 ## Voice Conversion (Other Key Words: VC, Voice Cloning, Voice Style Transfer)
 - [End-to-End Zero-Shot Voice Style Transfer with Location-Variable Convolutions](https://arxiv.org/abs/2205.09784) | 2022
   + [Demo](https://lvc-vc.github.io/lvc-vc-demo/)
+
+- [A Comparative Study of Self-supervised Speech Representation Based Voice Conversion](https://arxiv.org/abs/2207.04356) | **IEEE JSTSP 2022**
 
 - [YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone](https://arxiv.org/abs/2112.02418) | **ICML 2022** [✔️**With Code**]
   + [Code](https://github.com/edresson/yourtts)
