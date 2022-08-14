@@ -135,6 +135,7 @@ ASRU,
 
 
 ## ASR Toolkits
+- [S3PRL Toolkit](https://github.com/s3prl/s3prl)
 - [WeNet](https://github.com/wenet-e2e/wenet)
 
 
