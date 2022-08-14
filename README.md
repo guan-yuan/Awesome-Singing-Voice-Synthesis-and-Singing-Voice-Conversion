@@ -1,4 +1,7 @@
 # Awesome Singing Voice Conversion and Synthesis
+A paper and project list about singing (singing voice synthesis and singing voice conversion), voice conversion, and related interesting works.  
+Welcome to PR or contact me via email ([guanyuan@gapp.nthu.edu.tw](guanyuan@gapp.nthu.edu.tw)) for updating papers and works.
+
 ## Conferences
 NeuraIPS ICLR ICML IJAI AAAI ISMIR ACL NAACL EMNLP ICASSP INTERSPEECH  
 ## Workshops
