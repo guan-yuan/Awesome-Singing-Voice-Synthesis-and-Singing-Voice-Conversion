@@ -102,6 +102,11 @@ ASRU
   + [Apply&Download](https://github.com/MoonInTheRiver/DiffSinger/blob/master/resources/apply_form.md)
 
 
+## Self-supervised/Unsupervised ASR
+- [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) | 2019 [✔️**With Code**]
+  + [Code](https://github.com/facebookresearch/CPC_audio)
+
+
 ## References
 - [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 - [Awesome Voice Conversion Papers Projects](https://github.com/JeffC0628/awesome-voice-conversion)
