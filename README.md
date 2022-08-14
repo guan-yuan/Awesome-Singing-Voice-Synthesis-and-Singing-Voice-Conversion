@@ -119,11 +119,11 @@ ASRU,
   + [Code](https://github.com/r9y9/nnsvs)
 
 ### Dateset
-- [Opencpop: A High-Quality Open Source Chinese Popular Song Corpus for Singing Voice Synthesis](https://arxiv.org/abs/2201.07429) | **INTERSPEECH 2022**
-  + [Apply&Download](https://wenet.org.cn/opencpop/)
-  
 - [PopCS](https://arxiv.org/abs/2105.02446) | **AAAI 2022**
   + [Apply&Download](https://github.com/MoonInTheRiver/DiffSinger/blob/master/resources/apply_form.md)
+
+- [Opencpop: A High-Quality Open Source Chinese Popular Song Corpus for Singing Voice Synthesis](https://arxiv.org/abs/2201.07429) | **INTERSPEECH 2022**
+  + [Apply&Download](https://wenet.org.cn/opencpop/)
 
 
 ## Self-supervised/Unsupervised ASR
