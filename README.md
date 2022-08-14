@@ -20,6 +20,9 @@ ASRU
   + [Code](https://github.com/mindslab-ai/assem-vc)
   + [Demo](https://mindslab-ai.github.io/assem-vc/singer/)
 
+- [DiffSVC: A Diffusion Probabilistic Model for Singing Voice Conversion](https://arxiv.org/abs/2105.13871) | **ASRU 2021**
+  + [Demo](https://liusongxiang.github.io/diffsvc/)
+
 - [Unsupervised WaveNet-based Singing Voice Conversion Using Pitch Augmentation and Two-phase Approach](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1107202111044100) | 2021 [✔️**With Code**]
   + [Code](https://github.com/SongRongLee/mir-svc)
   + [Demo](https://songronglee.github.io/singing-voice-conversion/)
