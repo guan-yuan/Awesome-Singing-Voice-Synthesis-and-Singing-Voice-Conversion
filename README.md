@@ -3,16 +3,16 @@ A paper and project list about singing (singing voice synthesis and singing voic
   
 Welcome to PR or contact me via email ([guanyuan@gapp.nthu.edu.tw](guanyuan@gapp.nthu.edu.tw)) for updating papers and works.
 
+## Journals
+IEEE/ACM TASLP,
+
+
 ## Conferences
 NeuraIPS, ICLR, ICML, IJAI, AAAI, ISMIR, ACL, NAACL, EMNLP, ICASSP, INTERSPEECH, ACM MM
 
 
 ## Workshops
 ASRU,
-
-
-## Journals
-IEEE/ACM TASLP,
 
 
 ## Singing Voice Conversion (Other Key Words: SVC, Singing Style Transfer)
