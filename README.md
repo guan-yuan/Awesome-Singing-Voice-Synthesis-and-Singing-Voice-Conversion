@@ -14,6 +14,10 @@ ASRU
   + [Code](https://github.com/WelkinYang/Learn2Sing2.0)
   + [Demo](https://welkinyang.github.io/Learn2Sing2.0/)
 
+- [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://arxiv.org/abs/2110.12676) | **NeurIPS 2021 Workshop** [✔️**With Code**]
+  + [Code](https://github.com/mindslab-ai/assem-vc)
+  + [Demo](https://mindslab-ai.github.io/assem-vc/singer/)
+
 - [Unsupervised WaveNet-based Singing Voice Conversion Using Pitch Augmentation and Two-phase Approach](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1107202111044100) | 2021 [✔️**With Code**]
   + [Code](https://github.com/SongRongLee/mir-svc)
   + [Demo](https://songronglee.github.io/singing-voice-conversion/)
@@ -22,6 +26,10 @@ ASRU
   + [Demo](https://tencent-ailab.github.io/learning_singing_from_speech/)
 
 ## Voice Conversion (Other Key Words: VC, Voice Cloning)
+- [Assem-VC: Realistic Voice Conversion by Assembling Modern Speech Synthesis Techniques](https://arxiv.org/abs/2104.00931) | **ICASSP 2022** [✔️**With Code**]
+  + [Code](https://github.com/mindslab-ai/assem-vc)
+  + [Demo](https://mindslab-ai.github.io/assem-vc/)
+
 - [StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion](https://arxiv.org/abs/2107.10394) | **INTERSPEECH 2021 Best Paper Award** [✔️**With Code**]
   + [Code](https://github.com/yl4579/StarGANv2-VC)
   + [Demo](https://starganv2-vc.github.io/)
