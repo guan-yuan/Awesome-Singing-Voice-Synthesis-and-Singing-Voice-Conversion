@@ -107,6 +107,18 @@ ASRU
   + [Code](https://github.com/facebookresearch/CPC_audio)
 
 
+## ASR Toolkits
+- [WeNet](https://github.com/wenet-e2e/wenet)
+
+
+## TTS Toolkits
+- [Coqui.ai TTS](https://github.com/coqui-ai/TTS)
+
+
+## Competitions
+- [Voice Conversion Challenge 2020](http://www.vc-challenge.org/)
+
+
 ## References
 - [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 - [Awesome Voice Conversion Papers Projects](https://github.com/JeffC0628/awesome-voice-conversion)
@@ -116,14 +128,6 @@ ASRU
 - [Papers With Code: Singing Voice Conversion](https://paperswithcode.com/search?q_meta=&q_type=&q=singing+voice+conversion)
 - [Papers With Code: Singing Voice Synthesis](https://paperswithcode.com/search?q_meta=&q_type=&q=singing+voice+synthesis)
 - [Awesome Open Source: Voice Conversion](https://awesomeopensource.com/projects/voice-conversion)
-
-
-## ASR Toolkit
-- [WeNet](https://github.com/wenet-e2e/wenet)
-
-
-## TTS Toolkit
-- [Coqui.ai TTS](https://github.com/coqui-ai/TTS)
 
 
 
