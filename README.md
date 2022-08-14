@@ -43,12 +43,13 @@ ASRU
   + [语音合成（TTS)论文优选：DurIAN-SC: Duration Informed Attention Network based Singing Voice Conversion System](https://blog.csdn.net/liyongqiang2420/article/details/111825132) | [Note]
 
 
-## Reference
-- [低調奮進TTS](http://yqli.tech/page/tts_paper.html)
+## References
+- [TTS Papers](http://yqli.tech/page/tts_paper.html)
 - [Awesome-Voice-Conversion-Papers-Projects](https://github.com/JeffC0628/awesome-voice-conversion)
-- [paperswithcode :singing voice conversion](https://paperswithcode.com/search?q_meta=&q_type=&q=singing+voice+conversion)
-- [语音合成（speech syn)方向六：歌唱合成（singing voice synthesis)](https://zhuanlan.zhihu.com/p/342079143)
-- [歌唱转换2019-2020文章](https://blog.csdn.net/qq_40168949/article/details/113608810)
+- [Papers With Code: Voice Conversion](https://paperswithcode.com/task/voice-conversion)
+- [Papers With Code: Singing Voice Conversion](https://paperswithcode.com/search?q_meta=&q_type=&q=singing+voice+conversion)
+- [Papers With Code: Singing Voice Synthesis](https://paperswithcode.com/search?q_meta=&q_type=&q=singing+voice+synthesis)
+- [Awesome Open Source: Voice Conversion](https://awesomeopensource.com/projects/voice-conversion)
 
 
 ## Misc
