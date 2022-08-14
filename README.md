@@ -4,7 +4,7 @@ A paper and project list about singing (singing voice synthesis and singing voic
 Welcome to PR or contact me via email ([guanyuan@gapp.nthu.edu.tw](guanyuan@gapp.nthu.edu.tw)) for updating papers and works.
 
 ## Conferences
-NeuraIPS ICLR ICML IJAI AAAI ISMIR ACL NAACL EMNLP ICASSP INTERSPEECH  
+NeuraIPS ICLR ICML IJAI AAAI ISMIR ACL NAACL EMNLP ICASSP INTERSPEECH ACMMM
 ## Workshops
 ASRU
 
@@ -27,26 +27,28 @@ ASRU
   + [Demo](https://starganv2-vc.github.io/)
 
 ## Singing Voice Synthesis (Other Key Words: SVS)
-- [Muskits: an End-to-End Music Processing Toolkit for Singing Voice Synthesis](https://arxiv.org/abs/2205.04029) | **INTERSPEECH 2022** [**Open**]
-  + [Muskit: Open-source music processing toolkits](https://github.com/SJTMusicTeam/Muskits) | [**PyTorch**]
+- [Muskits: an End-to-End Music Processing Toolkit for Singing Voice Synthesis](https://arxiv.org/abs/2205.04029) | **INTERSPEECH 2022** [**With Code**]
+  + [Code](https://github.com/SJTMusicTeam/Muskits)
 
-- [SingAug: Data Augmentation for Singing Voice Synthesis with Cycle-consistent Training Strategy](https://arxiv.org/abs/2203.17001) | arXiv [**Open**]
-  + [Muskit: Open-source music processing toolkits](https://github.com/SJTMusicTeam/Muskits)
+- [SingAug: Data Augmentation for Singing Voice Synthesis with Cycle-consistent Training Strategy](https://arxiv.org/abs/2203.17001) | **INTERSPEECH 2022** [**With Code**]
+  + [Code](https://github.com/SJTMusicTeam/Muskits)
 
-- [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://arxiv.org/abs/2202.13277) | **ACL 2022** [**Open**]
-  + [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://github.com/moonintheriver/neuralsvb) | [**PyTorch**]
+- [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://arxiv.org/abs/2202.13277) | **ACL 2022** [**With Code**]
+  + [Code](https://github.com/MoonInTheRiver/NeuralSVB)
+  + [Demo](https://neuralsvb.github.io/)
 
-- [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) | **AAAI 2022** [**Open**]
-  + [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://github.com/MoonInTheRiver/DiffSinger) | [**PyTorch**]
-  + [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://diffsinger.github.io/) | [Demo]
+- [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) | **AAAI 2022** [**With Code**]
+  + [Code](https://github.com/MoonInTheRiver/DiffSinger)
+  + [Demo](https://diffsinger.github.io/)
 
-- [Sinsy: A Deep Neural Network-Based Singing Voice Synthesis System](https://arxiv.org/abs/2108.02776) | **IEEE/ACM Transactions on Audio, Speech and Language Processing** [**Open**]
-  + [Neural network-based singing voice synthesis library for research](https://github.com/r9y9/nnsvs) | [**PyTorch**]
+- [Sinsy: A Deep Neural Network-Based Singing Voice Synthesis System](https://arxiv.org/abs/2108.02776) | **IEEE/ACM Transactions on Audio, Speech, and Language Processing 2021** [**With Code**]
+  + [Code](https://github.com/r9y9/nnsvs)
 
 ### Dateset
-- [Opencpop: A High-Quality Open Source Chinese Popular Song Corpus for Singing Voice Synthesis](https://arxiv.org/abs/2201.07429)
-  + [Opencpop](https://wenet.org.cn/opencpop/)
-- [PopCS](https://github.com/MoonInTheRiver/DiffSinger/blob/master/resources/apply_form.md)
+- [Opencpop: A High-Quality Open Source Chinese Popular Song Corpus for Singing Voice Synthesis](https://arxiv.org/abs/2201.07429) | **INTERSPEECH 2022**
+  + [Apply & Download](https://wenet.org.cn/opencpop/)
+- [PopCS](https://arxiv.org/abs/2105.02446) | **AAAI 2022**
+  + [Apply & Download](https://github.com/MoonInTheRiver/DiffSinger/blob/master/resources/apply_form.md)
 
 
 ## References
