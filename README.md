@@ -13,10 +13,6 @@ ASRU
 - [Learn2Sing 2.0: Diffusion and Mutual Information-Based Target Speaker SVS by Learning from Singing Teacher](https://arxiv.org/abs/2203.16408) | **INTERSPEECH 2022** [**With Code**]
   + [Learn2Sing 2.0](https://welkinyang.github.io/Learn2Sing2.0/) | [**PyTorch**]
 
-- [StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion](https://arxiv.org/abs/2107.10394) | **INTERSPEECH 2021 Best Paper Award** [**Open**]
-  + [yl4579/StarGANv2-VC](https://github.com/yl4579/StarGANv2-VC) | [**PyTorch**]
-  + [StarGANv2-VC Audio Demo](https://starganv2-vc.github.io/) | [Demo]
-
 - [Unsupervised WaveNet-based Singing Voice Conversion Using Pitch Augmentation and Two-phase Approach](https://github.com/SongRongLee/mir-svc) | 張智星Lab學生碩論 [**Open**]
   + [Singing Voice Conversion Demo](https://songronglee.github.io/singing-voice-conversion/) | [Demo]
 
@@ -24,6 +20,11 @@ ASRU
   + [tencent-ailab/learning_singing_from_speech](https://github.com/tencent-ailab/learning_singing_from_speech) | [Demo]
   + [语音合成（TTS)论文优选：DurIAN-SC: Duration Informed Attention Network based Singing Voice Conversion System](https://blog.csdn.net/liyongqiang2420/article/details/111825132) | [Note]
 
+
+## Voice Conversion (Other Key Words: VC, Voice Cloning)
+- [StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion](https://arxiv.org/abs/2107.10394) | **INTERSPEECH 2021 Best Paper Award** [**With Code**]
+  + [Code](https://github.com/yl4579/StarGANv2-VC)
+  + [Demo](https://starganv2-vc.github.io/)
 
 ## Singing Voice Synthesis (Other Key Words: SVS)
 - [Muskits: an End-to-End Music Processing Toolkit for Singing Voice Synthesis](https://arxiv.org/abs/2205.04029) | **INTERSPEECH 2022** [**Open**]
