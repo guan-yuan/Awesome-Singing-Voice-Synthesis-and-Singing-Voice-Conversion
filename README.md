@@ -4,15 +4,15 @@ A paper and project list about singing (singing voice synthesis and singing voic
 Welcome to PR or contact me via email ([guanyuan@gapp.nthu.edu.tw](guanyuan@gapp.nthu.edu.tw)) for updating papers and works.
 
 ## Conferences
-NeuraIPS ICLR ICML IJAI AAAI ISMIR ACL NAACL EMNLP ICASSP INTERSPEECH ACMMM
+NeuraIPS, ICLR, ICML, IJAI, AAAI, ISMIR, ACL, NAACL, EMNLP, ICASSP, INTERSPEECH, ACM MM
 
 
 ## Workshops
-ASRU
+ASRU,
 
 
 ## Journals
-TASLP
+IEEE/ACM TASLP,
 
 
 ## Singing Voice Conversion (Other Key Words: SVC, Singing Style Transfer)
@@ -80,6 +80,8 @@ TASLP
 
 - [On Prosody Modeling for ASR+TTS based Voice Conversion](https://arxiv.org/abs/2107.09477) | **ASRU 2021**
   + [Demo](https://unilight.github.io/Publication-Demos/publications/prosody-asr-tts-vc/index.html)
+
+- [An Overview of Voice Conversion and its Challenges: From Statistical Modeling to Deep Learning](https://arxiv.org/abs/2008.03648) | **IEEE/ACM TASLP 2020**
 
 - [Unsupervised Speech Decomposition via Triple Information Bottleneck](https://arxiv.org/abs/2004.11284) | **ICML 2020** [✔️**With Code**]
   + [Code](https://github.com/auspicious3000/SpeechSplit)
