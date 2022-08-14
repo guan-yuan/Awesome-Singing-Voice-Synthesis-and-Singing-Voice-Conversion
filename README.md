@@ -72,6 +72,8 @@ ASRU,
   + [Code](https://github.com/mindslab-ai/assem-vc)
   + [Demo](https://mindslab-ai.github.io/assem-vc/)
 
+- [Toward Degradation-Robust Voice Conversion](https://arxiv.org/abs/2110.07537) | **ICASSP 2022**
+
 - [Neural Analysis and Synthesis: Reconstructing Speech from Self-Supervised Representations](https://arxiv.org/abs/2110.14513) | **NeurIPS 2021**
   + [Demo](https://harsh-grenadilla-e40.notion.site/Demo-page-for-NANSY-37d4fd8ffb514765a2b234b04c8fc0f6)
   + [Unofficial Code](https://github.com/dhchoi99/NANSY)
