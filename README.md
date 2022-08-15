@@ -61,6 +61,8 @@ ASRU, SLT
   + [Unofficial Code](https://github.com/hhguo/EA-SVC)
 
 ### Dateset
+- [NUS-48E Sung and Spoken Lyrics Corpus](https://smcnus.comp.nus.edu.sg/archive/pdf/2012-2013/2013_05-Pub-NUS-48E.pdf)
+  + [Apply&Download](https://drive.google.com/drive/folders/12pP9uUl0HTVANU3IPLnumTJiRjPtVUMx)
 
 
 ## Singing Technique Conversion
