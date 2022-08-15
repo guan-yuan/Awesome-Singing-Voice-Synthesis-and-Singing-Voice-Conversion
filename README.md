@@ -87,6 +87,9 @@ ASRU,
 
 - [Toward Degradation-Robust Voice Conversion](https://arxiv.org/abs/2110.07537) | **ICASSP 2022**
 
+- [DGC-vector: A new speaker embedding for zero-shot voice conversion](https://arxiv.org/abs/2203.09722) | **ICASSP 2022**
+  + [Demo](https://shaw0fr.github.io/DGC-vector-DEMO/)
+
 - [Any-to-Many Voice Conversion with Location-Relative Sequence-to-Sequence Modeling](https://arxiv.org/abs/2009.02725v3) | **IEEE/ACM TASLP 2021**
   + [Code](https://github.com/liusongxiang/ppg-vc)
   + [Demo](https://liusongxiang.github.io/BNE-Seq2SeqMoL-VC/)
