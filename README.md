@@ -103,6 +103,10 @@ ASRU,
 - [Global Rhythm Style Transfer Without Text Transcriptions](https://arxiv.org/abs/2106.08519) | **ICML 2021** [✔️**With Code**]
   + [Code](https://github.com/auspicious3000/AutoPST)
 
+- [AGAIN-VC: A One-shot Voice Conversion using Activation Guidance and Adaptive Instance Normalization](https://arxiv.org/abs/2011.00316) | **ICASSP 2021** [✔️**With Code**]
+  + [Code](https://github.com/KimythAnly/AGAIN-VC)
+  + [Demo](https://kimythanly.github.io/AGAIN-VC-demo/index)
+
 - [StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion](https://arxiv.org/abs/2107.10394) | **INTERSPEECH 2021 Best Paper Award** [✔️**With Code**]
   + [Code](https://github.com/yl4579/StarGANv2-VC)
   + [Demo](https://starganv2-vc.github.io/)
