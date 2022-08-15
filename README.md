@@ -122,6 +122,10 @@ ASRU,
 - [On Prosody Modeling for ASR+TTS based Voice Conversion](https://arxiv.org/abs/2107.09477) | **ASRU 2021**
   + [Demo](https://unilight.github.io/Publication-Demos/publications/prosody-asr-tts-vc/index.html)
 
+- [MediumVC: Any-to-any voice conversion using synthetic specific-speaker speeches as intermedium features](https://arxiv.org/abs/2110.02500) | 2021 [✔️**With Code**]
+  + [Code](https://github.com/BrightGu/MediumVC)
+  + [Demo](https://brightgu.github.io/MediumVC/)
+
 - [An Overview of Voice Conversion and its Challenges: From Statistical Modeling to Deep Learning](https://arxiv.org/abs/2008.03648) | **IEEE/ACM TASLP 2020**
 
 - [Unsupervised Speech Decomposition via Triple Information Bottleneck](https://arxiv.org/abs/2004.11284) | **ICML 2020** [✔️**With Code**]
