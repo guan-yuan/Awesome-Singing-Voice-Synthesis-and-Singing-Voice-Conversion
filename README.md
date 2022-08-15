@@ -218,6 +218,7 @@ ASRU,
 - [Papers With Code: Singing Voice Conversion](https://paperswithcode.com/search?q_meta=&q_type=&q=singing+voice+conversion)
 - [Papers With Code: Singing Voice Synthesis](https://paperswithcode.com/search?q_meta=&q_type=&q=singing+voice+synthesis)
 - [Awesome Open Source: Voice Conversion](https://awesomeopensource.com/projects/voice-conversion)
+- [ICASSP 2021 Paper List-VC](https://github.com/xinshengwang/ICASSP2021_paper_list-VC)
 
 
 
