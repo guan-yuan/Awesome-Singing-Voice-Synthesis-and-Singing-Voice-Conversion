@@ -12,7 +12,7 @@ NeuraIPS, ICLR, ICML, IJAI, AAAI, ACL, NAACL, EMNLP, ISMIR, ICASSP, INTERSPEECH,
 
 
 ## Workshops
-ASRU,
+ASRU, SLT
 
 
 ## Singing Voice Conversion (Other Key Words: SVC, Singing Style Transfer)
