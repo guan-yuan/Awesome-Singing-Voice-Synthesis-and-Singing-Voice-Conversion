@@ -61,9 +61,6 @@ ASRU, SLT
   + [Unofficial Code](https://github.com/hhguo/EA-SVC)
 
 ### Dateset
-- [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](https://openreview.net/forum?id=qiDmAaG6mP) | **NeurIPS 2022**
-  + [Apply&Download](https://github.com/M4Singer/M4Singer)
-  + [Demo](https://m4singer.github.io/)
 
 
 ## Voice Conversion (Other Key Words: VC, Voice Cloning, Voice Style Transfer)
@@ -200,6 +197,10 @@ ASRU, SLT
   + [Code](https://github.com/r9y9/nnsvs)
 
 ### Dateset
+- [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](https://openreview.net/forum?id=qiDmAaG6mP) | **NeurIPS 2022**
+  + [Apply&Download](https://github.com/M4Singer/M4Singer)
+  + [Demo](https://m4singer.github.io/)
+
 - [PopCS](https://arxiv.org/abs/2105.02446) | **AAAI 2022**
   + [Apply&Download](https://github.com/MoonInTheRiver/DiffSinger/blob/master/resources/apply_form.md)
 
