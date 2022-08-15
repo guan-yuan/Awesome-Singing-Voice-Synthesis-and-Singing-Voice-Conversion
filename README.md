@@ -169,6 +169,9 @@ ASRU,
 - [SingAug: Data Augmentation for Singing Voice Synthesis with Cycle-consistent Training Strategy](https://arxiv.org/abs/2203.17001) | **INTERSPEECH 2022** [✔️**With Code**]
   + [Code](https://github.com/SJTMusicTeam/Muskits)
 
+- [WeSinger: Data-augmented Singing Voice Synthesis with Auxiliary Losses](https://arxiv.org/abs/2203.10750?s=03) | **INTERSPEECH 2022**
+  + [Demo](https://zzw922cn.github.io/wesinger/)
+
 - [Sinsy: A Deep Neural Network-Based Singing Voice Synthesis System](https://arxiv.org/abs/2108.02776) | **IEEE/ACM TASLP 2021** [✔️**With Code**]
   + [Code](https://github.com/r9y9/nnsvs)
 
