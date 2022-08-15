@@ -158,6 +158,10 @@ ASRU,
 - [Cross-speaker Emotion Transfer Based On Prosody Compensation for End-to-End Speech Synthesis](https://arxiv.org/abs/2207.01198) | **INTERSPEECH 2022**
   + [Demo](https://silyfox.github.io/cspc/)
 
+- [Emotion Intensity and its Control for Emotional Voice Conversion](https://arxiv.org/abs/2201.03967) | **IEEE Transactions on Affective Computing** [✔️**With Code**]
+  + [Code](https://github.com/KunZhou9646/Emovox)
+  + [Demo](https://kunzhou9646.github.io/Emovox_demo/)
+
 - [Converting Anyone's Emotion: Towards Speaker-Independent Emotional Voice Conversion](https://arxiv.org/abs/2005.07025) | **INTERSPEECH 2020** [✔️**With Code**]
   + [Code](https://github.com/KunZhou9646/Speaker-independent-emotional-voice-conversion-based-on-conditional-VAW-GAN-and-CWT)
   + [Demo](https://kunzhou9646.github.io/speaker-independent-emotional-vc/)
