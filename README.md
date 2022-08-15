@@ -214,19 +214,25 @@ ASRU, SLT
   + [Demo](https://bshall.github.io/UniversalVocoding/)
 
 
-## Self-supervised/Unsupervised ASR
-- [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) | 2019 [✔️**With Code**]
-  + [Code](https://github.com/facebookresearch/CPC_audio)
-
-
 ## Speech Insertion
 - [RetrieverTTS: Modeling Decomposed Factors for Text-Based Speech Insertion](https://arxiv.org/abs/2206.13865) | **INTERSPEECH 2022**
   + [Demo](https://ydcustc.github.io/retrieverTTS-demo/)
+
 
 ## Adversarial Attack
 - [Defending Your Voice: Adversarial Attack on Voice Conversion](https://arxiv.org/abs/2005.08781) | **SLT 2021**
   + [Code](https://github.com/cyhuang-tw/attack-vc)
   + [Demo](https://yistlin.github.io/attack-vc-demo/)
+
+
+## Speech Data Augmentation
+- [Data Augmenting Contrastive Learning of Speech Representations in the Time Domain](https://arxiv.org/abs/2007.00991) | **SLT 2021** [✔️**With Code**]
+  + [Code](https://github.com/facebookresearch/WavAugment)
+
+
+## Self-supervised/Unsupervised ASR
+- [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) | 2019 [✔️**With Code**]
+  + [Code](https://github.com/facebookresearch/CPC_audio)
 
 
 ## ASR Toolkits
