@@ -63,6 +63,10 @@ ASRU, SLT
 ### Dateset
 
 
+## Singing Technique Conversion
+- [Zero-shot Singing Technique Conversion](https://arxiv.org/abs/2111.08839) | **CMMR 2021**
+
+
 ## Voice Conversion (Other Key Words: VC, Voice Cloning, Voice Style Transfer)
 - [End-to-End Zero-Shot Voice Style Transfer with Location-Variable Convolutions](https://arxiv.org/abs/2205.09784) | 2022
   + [Demo](https://lvc-vc.github.io/lvc-vc-demo/)
