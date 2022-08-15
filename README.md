@@ -49,6 +49,10 @@ ASRU,
 - [Unsupervised Cross-Domain Singing Voice Conversion](https://arxiv.org/abs/2008.02830) | **INTERSPEECH 2020**
   + [Demo](https://singing-conversion.github.io/)
 
+- [VAW-GAN for Singing Voice Conversion with Non-parallel Training Data](https://arxiv.org/abs/2008.03992) | **APSIPA 2020** [✔️**With Code**]
+  + [Code](https://github.com/johndpope/Singing-Voice-Conversion-with-conditional-VAW-GAN)
+  + [Demo](https://kunzhou9646.github.io/singvaw-gan/)
+
 - [Phonetic Posteriorgrams based Many-to-Many Singing Voice Conversion via Adversarial Training](https://arxiv.org/abs/2012.01837) | 2020
   + [Demo](https://hhguo.github.io/DemoEASVC/)
   + [Unofficial Code](https://github.com/hhguo/EA-SVC)
