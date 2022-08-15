@@ -97,6 +97,12 @@ ASRU,
 - [DGC-vector: A new speaker embedding for zero-shot voice conversion](https://arxiv.org/abs/2203.09722) | **ICASSP 2022**
   + [Demo](https://shaw0fr.github.io/DGC-vector-DEMO/)
 
+- [Learning Noise-independent Speech Representation for High-quality Voice Conversion for Noisy Target Speakers](https://arxiv.org/abs/2207.00756) | **INTERSPEECH 2022**
+  + [Demo](https://lmxue.github.io/FlowVC/)
+
+- [Glow-WaveGAN 2: High-quality Zero-shot Text-to-speech Synthesis and Any-to-any Voice Conversion](https://arxiv.org/abs/2207.01832) | **INTERSPEECH 2022**
+  + [Demo](https://leiyi420.github.io/glow-wavegan2/)
+
 - [Any-to-Many Voice Conversion with Location-Relative Sequence-to-Sequence Modeling](https://arxiv.org/abs/2009.02725v3) | **IEEE/ACM TASLP 2021**
   + [Code](https://github.com/liusongxiang/ppg-vc)
   + [Demo](https://liusongxiang.github.io/BNE-Seq2SeqMoL-VC/)
@@ -148,6 +154,9 @@ ASRU,
 ## Emotional Voice Conversion
 - [Disentanglement of Emotional Style and Speaker Identity for Expressive Voice Conversion](https://arxiv.org/abs/2110.10326) | **INTERSPEECH 2022**
   + [Demo](https://zy-du.github.io/IS22/)
+
+- [Cross-speaker Emotion Transfer Based On Prosody Compensation for End-to-End Speech Synthesis](https://arxiv.org/abs/2207.01198) | **INTERSPEECH 2022**
+  + [Demo](https://silyfox.github.io/cspc/)
 
 - [Converting Anyone's Emotion: Towards Speaker-Independent Emotional Voice Conversion](https://arxiv.org/abs/2005.07025) | **INTERSPEECH 2020** [✔️**With Code**]
   + [Code](https://github.com/KunZhou9646/Speaker-independent-emotional-voice-conversion-based-on-conditional-VAW-GAN-and-CWT)
