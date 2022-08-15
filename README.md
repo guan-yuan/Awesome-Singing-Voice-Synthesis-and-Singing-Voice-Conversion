@@ -175,6 +175,9 @@ ASRU, SLT
   + [Code](https://github.com/KunZhou9646/seq2seq-EVC)
   + [Demo](https://kunzhou9646.github.io/IS21/)
 
+- [Textless Speech Emotion Conversion using Discrete and Decomposed Representations](https://arxiv.org/abs/2111.07402) | 2021
+  + [Demo](https://speechbot.github.io/emotion/)
+
 - [Converting Anyone's Emotion: Towards Speaker-Independent Emotional Voice Conversion](https://arxiv.org/abs/2005.07025) | **INTERSPEECH 2020** [✔️**With Code**]
   + [Code](https://github.com/KunZhou9646/Speaker-independent-emotional-voice-conversion-based-on-conditional-VAW-GAN-and-CWT)
   + [Demo](https://kunzhou9646.github.io/speaker-independent-emotional-vc/)
