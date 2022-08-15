@@ -27,6 +27,9 @@ ASRU,
 - [DiffSVC: A Diffusion Probabilistic Model for Singing Voice Conversion](https://arxiv.org/abs/2105.13871) | **ASRU 2021**
   + [Demo](https://liusongxiang.github.io/diffsvc/)
 
+- [FastSVC: Fast Cross-Domain Singing Voice Conversion with Feature-wise Linear Modulation](https://arxiv.org/abs/2011.05731) | **ICME 2021**
+  + [Demo](https://nobody996.github.io/FastSVC/)
+
 - [Unsupervised WaveNet-based Singing Voice Conversion Using Pitch Augmentation and Two-phase Approach](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1107202111044100) | 2021 [✔️**With Code**]
   + [Code](https://github.com/SongRongLee/mir-svc)
   + [Demo](https://songronglee.github.io/singing-voice-conversion/)
@@ -42,6 +45,9 @@ ASRU,
 
 - [DurIAN-SC: Duration Informed Attention Network based Singing Voice Conversion System](https://arxiv.org/abs/2008.03009) | **INTERSPEECH 2020**
   + [Demo](https://tencent-ailab.github.io/learning_singing_from_speech/)
+
+- [Unsupervised Cross-Domain Singing Voice Conversion](https://arxiv.org/abs/2008.02830) | **INTERSPEECH 2020**
+  + [Demo](https://singing-conversion.github.io/)
 
 - [Phonetic Posteriorgrams based Many-to-Many Singing Voice Conversion via Adversarial Training](https://arxiv.org/abs/2012.01837) | 2020
   + [Demo](https://hhguo.github.io/DemoEASVC/)
@@ -105,16 +111,10 @@ ASRU,
 - [On Prosody Modeling for ASR+TTS based Voice Conversion](https://arxiv.org/abs/2107.09477) | **ASRU 2021**
   + [Demo](https://unilight.github.io/Publication-Demos/publications/prosody-asr-tts-vc/index.html)
 
-- [FastSVC: Fast Cross-Domain Singing Voice Conversion with Feature-wise Linear Modulation](https://arxiv.org/abs/2011.05731) | **ICME 2021**
-  + [Demo](https://nobody996.github.io/FastSVC/)
-
 - [An Overview of Voice Conversion and its Challenges: From Statistical Modeling to Deep Learning](https://arxiv.org/abs/2008.03648) | **IEEE/ACM TASLP 2020**
 
 - [Unsupervised Speech Decomposition via Triple Information Bottleneck](https://arxiv.org/abs/2004.11284) | **ICML 2020** [✔️**With Code**]
   + [Code](https://github.com/auspicious3000/SpeechSplit)
-
-- [Unsupervised Cross-Domain Singing Voice Conversion](https://arxiv.org/abs/2008.02830) | **INTERSPEECH 2020**
-  + [Demo](https://singing-conversion.github.io/)
 
 - [AUTOVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss](https://arxiv.org/abs/1905.05879) | **ICML 2019** [✔️**With Code**]
   + [Code](https://github.com/auspicious3000/autovc)
