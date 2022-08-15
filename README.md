@@ -90,6 +90,10 @@ ASRU, SLT
   + [Code](https://github.com/mindslab-ai/assem-vc)
   + [Demo](https://mindslab-ai.github.io/assem-vc/)
 
+- [NVC-Net: End-to-End Adversarial Voice Conversion](https://arxiv.org/abs/2106.00992) | **ICASSP 2022** [✔️**With Code**]
+  + [Code](https://github.com/sony/ai-research-code/tree/master/nvcnet)
+  + [Demo](https://nvcnet.github.io/)
+
 - [Training Robust Zero-Shot Voice Conversion Models with Self-supervised Features](https://arxiv.org/abs/2112.04424) | **ICASSP 2022**
   + [Demo](https://trungd.github.io/ssl_vc/index.html)
 
@@ -132,6 +136,10 @@ ASRU, SLT
 - [Many-to-Many Voice Conversion based Feature Disentanglement using Variational Autoencoder](https://arxiv.org/abs/2107.06642) | **INTERSPEECH 2021** [✔️**With Code**]
   + [Code](https://github.com/v-manhlt3/Disentangle-VAE-for-VC)
   + [Demo](https://v-manhlt3.github.io/disentangled-VAE/)
+
+- [Speech Resynthesis from Discrete Disentangled Self-Supervised Representations](https://arxiv.org/abs/2104.00355) | **INTERSPEECH 2021** [✔️**With Code**]
+  + [Code](https://github.com/facebookresearch/speech-resynthesis)
+  + [Demo](https://speechbot.github.io/resynthesis/index.html)
 
 - [On Prosody Modeling for ASR+TTS based Voice Conversion](https://arxiv.org/abs/2107.09477) | **ASRU 2021**
   + [Demo](https://unilight.github.io/Publication-Demos/publications/prosody-asr-tts-vc/index.html)
@@ -210,6 +218,12 @@ ASRU, SLT
 
 - [Opencpop: A High-Quality Open Source Chinese Popular Song Corpus for Singing Voice Synthesis](https://arxiv.org/abs/2201.07429) | **INTERSPEECH 2022**
   + [Apply&Download](https://wenet.org.cn/opencpop/)
+
+
+## Prosody-Aware
+- [Text-Free Prosody-Aware Generative Spoken Language Modeling](https://arxiv.org/abs/2109.03264) | **ACL 2022** [✔️**With Code**]
+  + [Code](https://github.com/facebookresearch/fairseq/tree/main/examples/textless_nlp/pgslm)
+  + [Demo](https://speechbot.github.io/pgslm/)
 
 
 ## Vocoder
