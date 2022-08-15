@@ -149,6 +149,13 @@ ASRU,
   + [Apply&Download](https://wenet.org.cn/opencpop/)
 
 
+## Vocoder
+- [Towards achieving robust universal neural vocoding](https://arxiv.org/abs/1811.06292) | **INTERSPEECH 2019** [✔️**With Code**]
+  + [Code](https://github.com/bshall/UniversalVocoding)
+  + [Unofficial Code](https://github.com/yistLin/universal-vocoder)
+  + [Demo](https://bshall.github.io/UniversalVocoding/)
+
+
 ## Self-supervised/Unsupervised ASR
 - [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) | 2019 [✔️**With Code**]
   + [Code](https://github.com/facebookresearch/CPC_audio)
