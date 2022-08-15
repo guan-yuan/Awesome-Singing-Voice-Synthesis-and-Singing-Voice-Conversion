@@ -155,6 +155,9 @@ ASRU,
 
 
 ## Singing Voice Synthesis (Other Key Words: SVS)
+- [WeSinger 2: Fully Parallel Singing Voice Synthesis via Multi-Singer Conditional Adversarial Training](https://arxiv.org/abs/2207.01886) | 2022
+  + [Demo](https://zzw922cn.github.io/wesinger2/)
+
 - [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) | **AAAI 2022** [✔️**With Code**]
   + [Code](https://github.com/MoonInTheRiver/DiffSinger)
   + [Demo](https://diffsinger.github.io/)
