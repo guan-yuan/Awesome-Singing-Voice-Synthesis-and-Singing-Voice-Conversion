@@ -153,6 +153,10 @@ ASRU,
   + [Code](https://github.com/KunZhou9646/Speaker-independent-emotional-voice-conversion-based-on-conditional-VAW-GAN-and-CWT)
   + [Demo](https://kunzhou9646.github.io/speaker-independent-emotional-vc/)
 
+- [Transforming Spectrum and Prosody for Emotional Voice Conversion with Non-Parallel Training Data](https://arxiv.org/abs/2002.00198) | **Odyssey 2020** [✔️**With Code**]
+  + [Code](https://github.com/KunZhou9646/emotional-voice-conversion-with-CycleGAN-and-CWT-for-Spectrum-and-F0)
+  + [Demo](https://kunzhou9646.github.io/Odyssey2020_emotional_VC//)
+
 
 ## Singing Voice Synthesis (Other Key Words: SVS)
 - [WeSinger 2: Fully Parallel Singing Voice Synthesis via Multi-Singer Conditional Adversarial Training](https://arxiv.org/abs/2207.01886) | 2022
