@@ -87,6 +87,10 @@ ASRU,
 
 - [Toward Degradation-Robust Voice Conversion](https://arxiv.org/abs/2110.07537) | **ICASSP 2022**
 
+- [Any-to-Many Voice Conversion with Location-Relative Sequence-to-Sequence Modeling](https://arxiv.org/abs/2009.02725v3) | **IEEE/ACM TASLP 2021**
+  + [Code](https://github.com/liusongxiang/ppg-vc)
+  + [Demo](https://liusongxiang.github.io/BNE-Seq2SeqMoL-VC/)
+
 - [Neural Analysis and Synthesis: Reconstructing Speech from Self-Supervised Representations](https://arxiv.org/abs/2110.14513) | **NeurIPS 2021**
   + [Demo](https://harsh-grenadilla-e40.notion.site/Demo-page-for-NANSY-37d4fd8ffb514765a2b234b04c8fc0f6)
   + [Unofficial Code](https://github.com/dhchoi99/NANSY)
