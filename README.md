@@ -113,6 +113,9 @@ ASRU,
 - [Unsupervised Speech Decomposition via Triple Information Bottleneck](https://arxiv.org/abs/2004.11284) | **ICML 2020** [✔️**With Code**]
   + [Code](https://github.com/auspicious3000/SpeechSplit)
 
+- [Unsupervised Cross-Domain Singing Voice Conversion](https://arxiv.org/abs/2008.02830) | **INTERSPEECH 2020**
+  + [Demo](https://singing-conversion.github.io/)
+
 - [AUTOVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss](https://arxiv.org/abs/1905.05879) | **ICML 2019** [✔️**With Code**]
   + [Code](https://github.com/auspicious3000/autovc)
 
