@@ -127,6 +127,12 @@ ASRU,
   + [Code](https://github.com/cyhuang-tw/AdaIN-VC)
 
 
+## Emotional Voice Conversion
+- [Converting Anyone's Emotion: Towards Speaker-Independent Emotional Voice Conversion](https://arxiv.org/abs/2005.07025) | **INTERSPEECH 2020** [✔️**With Code**]
+  + [Code](https://github.com/KunZhou9646/Speaker-independent-emotional-voice-conversion-based-on-conditional-VAW-GAN-and-CWT)
+  + [Demo](https://kunzhou9646.github.io/speaker-independent-emotional-vc/)
+
+
 ## Singing Voice Synthesis (Other Key Words: SVS)
 - [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) | **AAAI 2022** [✔️**With Code**]
   + [Code](https://github.com/MoonInTheRiver/DiffSinger)
