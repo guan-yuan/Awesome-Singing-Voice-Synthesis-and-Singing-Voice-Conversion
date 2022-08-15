@@ -83,7 +83,7 @@ ASRU, SLT
   + [Demo](https://edresson.github.io/YourTTS/)
   + [Blog](https://coqui.ai/blog/tts/yourtts-zero-shot-text-synthesis-low-resource-languages)
 
-- [S3PRL-VC: Open-Source Voice Conversion Framework with Self-Supervised Speech Representations](https://ieeexplore.ieee.org/document/9746430) | **ICASSP 2022** [✔️**With Code**]
+- [S3PRL-VC: Open-Source Voice Conversion Framework with Self-Supervised Speech Representations](https://arxiv.org/abs/2110.06280) | **ICASSP 2022** [✔️**With Code**]
   + [Code](https://github.com/s3prl/s3prl/tree/master/s3prl/downstream/a2o-vc-vcc2020)
 
 - [Assem-VC: Realistic Voice Conversion by Assembling Modern Speech Synthesis Techniques](https://arxiv.org/abs/2104.00931) | **ICASSP 2022** [✔️**With Code**]
