@@ -135,6 +135,9 @@ ASRU,
 
 
 ## Emotional Voice Conversion
+- [Disentanglement of Emotional Style and Speaker Identity for Expressive Voice Conversion](https://arxiv.org/abs/2110.10326) | **INTERSPEECH 2022**
+  + [Demo](https://zy-du.github.io/IS22/)
+
 - [Converting Anyone's Emotion: Towards Speaker-Independent Emotional Voice Conversion](https://arxiv.org/abs/2005.07025) | **INTERSPEECH 2020** [✔️**With Code**]
   + [Code](https://github.com/KunZhou9646/Speaker-independent-emotional-voice-conversion-based-on-conditional-VAW-GAN-and-CWT)
   + [Demo](https://kunzhou9646.github.io/speaker-independent-emotional-vc/)
