@@ -23,8 +23,7 @@ ASRU, SLT
 - [A Hierarchical Speaker Representation Framework for One-shot Singing Voice Conversion](https://arxiv.org/abs/2206.13762) | **INTERSPEECH 2022**
   + [Demo](https://lixucuhk.github.io/Unet-SVC-Demo/)
 
-- [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://arxiv.org/abs/2110.12676) | **NeurIPS 2021 Workshop** [✔️**With Code**]
-  + [Code](https://github.com/mindslab-ai/assem-vc)
+- [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://arxiv.org/abs/2110.12676) | **NeurIPS 2021 Workshop**
   + [Demo](https://mindslab-ai.github.io/assem-vc/singer/)
 
 - [DiffSVC: A Diffusion Probabilistic Model for Singing Voice Conversion](https://arxiv.org/abs/2105.13871) | **ASRU 2021**
