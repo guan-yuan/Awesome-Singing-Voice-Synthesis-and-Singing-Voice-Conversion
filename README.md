@@ -1,5 +1,5 @@
-# Awesome Singing Voice Conversion and Synthesis
-A paper and project list about singing (singing voice synthesis and singing voice conversion), voice conversion, and related interesting works. 
+# Awesome Speech Synthesis and Voice Conversion
+A paper and project list about Speech Synthesis, Singing Synthesis, Voice Conversion, Singing Conversion, and related interesting works. 
   
 Welcome to PR or contact me via email ([guanyuan@gapp.nthu.edu.tw](guanyuan@gapp.nthu.edu.tw)) for updating papers and works.
 
