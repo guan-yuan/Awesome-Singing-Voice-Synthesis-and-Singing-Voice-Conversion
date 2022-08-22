@@ -1,5 +1,5 @@
 # Awesome Speech Synthesis and Voice Conversion
-A paper and project list about Speech Synthesis, Singing Synthesis, Voice Conversion, Singing Conversion, and related interesting works. 
+A paper and project list about Speech Synthesis, Text-to-Speech (TTS), Singing Voice Synthesis (SVS), Voice Conversion (VC), Singing Voice Conversion (SVC), and related interesting works. 
   
 Welcome to PR or contact me via email ([guanyuan@gapp.nthu.edu.tw](guanyuan@gapp.nthu.edu.tw)) for updating papers and works.
 
