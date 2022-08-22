@@ -4,11 +4,11 @@ A paper and project list about singing (singing voice synthesis and singing voic
 Welcome to PR or contact me via email ([guanyuan@gapp.nthu.edu.tw](guanyuan@gapp.nthu.edu.tw)) for updating papers and works.
 
 ## Journals
-IEEE/ACM TASLP, IEEE JSTSP, 
+IEEE/ACM TASLP, IEEE JSTSP, JSLHR, IEEE TPAMI
 
 
 ## Conferences
-NeuraIPS, ICLR, ICML, IJAI, AAAI, ACL, NAACL, EMNLP, ISMIR, ICASSP, INTERSPEECH, ACM MM
+NeuraIPS, ICLR, ICML, IJAI, AAAI, ACL, NAACL, EMNLP, ISMIR, ICASSP, INTERSPEECH, ACM MM, ICME
 
 
 ## Workshops
