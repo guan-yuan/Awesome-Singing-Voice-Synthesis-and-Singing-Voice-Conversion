@@ -43,9 +43,9 @@ ASRU, SLT
 - [Phonetic Posteriorgrams based Many-to-Many Singing Voice Conversion via Adversarial Training](https://arxiv.org/abs/2012.01837) | 2020 | [🎧Demo](https://hhguo.github.io/DemoEASVC/) | [Unofficial Code](https://github.com/hhguo/EA-SVC)
 
 ### Dateset
-- [NUS-48E Sung and Spoken Lyrics Corpus](https://smcnus.comp.nus.edu.sg/archive/pdf/2012-2013/2013_05-Pub-NUS-48E.pdf) | [Apply&Download](https://drive.google.com/drive/folders/12pP9uUl0HTVANU3IPLnumTJiRjPtVUMx)
+- [NUS-48E Sung and Spoken Lyrics Corpus](https://smcnus.comp.nus.edu.sg/archive/pdf/2012-2013/2013_05-Pub-NUS-48E.pdf) | [🔽Apply&Download](https://drive.google.com/drive/folders/12pP9uUl0HTVANU3IPLnumTJiRjPtVUMx)
 
-- [NHSS: A Speech and Singing Parallel Database](https://arxiv.org/abs/2012.00337) | [Apply&Download](https://hltnus.github.io/NHSSDatabase/index.html)
+- [NHSS: A Speech and Singing Parallel Database](https://arxiv.org/abs/2012.00337) | [🔽Apply&Download](https://hltnus.github.io/NHSSDatabase/index.html)
 
 
 ## Singing Technique Conversion
