@@ -16,9 +16,7 @@ ASRU, SLT
 
 
 ## Singing Voice Conversion (Other Key Words: SVC, Singing Style Transfer)
-- [Learn2Sing 2.0: Diffusion and Mutual Information-Based Target Speaker SVS by Learning from Singing Teacher](https://arxiv.org/abs/2203.16408) | **INTERSPEECH 2022** [✔️**With Code**]
-  + [Code](https://github.com/WelkinYang/Learn2Sing2.0)
-  + [Demo](https://welkinyang.github.io/Learn2Sing2.0/)
+- [Learn2Sing 2.0: Diffusion and Mutual Information-Based Target Speaker SVS by Learning from Singing Teacher](https://arxiv.org/abs/2203.16408) | **INTERSPEECH 2022** [✔️**With Code**] | [Code](https://github.com/WelkinYang/Learn2Sing2.0) | [Demo](https://welkinyang.github.io/Learn2Sing2.0/)
 
 - [A Hierarchical Speaker Representation Framework for One-shot Singing Voice Conversion](https://arxiv.org/abs/2206.13762) | **INTERSPEECH 2022**
   + [Demo](https://lixucuhk.github.io/Unet-SVC-Demo/)
