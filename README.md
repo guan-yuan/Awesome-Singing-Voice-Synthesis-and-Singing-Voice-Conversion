@@ -16,31 +16,31 @@ ASRU, SLT
 
 
 ## Singing Voice Conversion (Other Key Words: SVC, Singing Style Transfer)
-- [Learn2Sing 2.0: Diffusion and Mutual Information-Based Target Speaker SVS by Learning from Singing Teacher](https://arxiv.org/abs/2203.16408) | **INTERSPEECH 2022**  | [✔️Code](https://github.com/WelkinYang/Learn2Sing2.0) | [Demo](https://welkinyang.github.io/Learn2Sing2.0/)
+- [Learn2Sing 2.0: Diffusion and Mutual Information-Based Target Speaker SVS by Learning from Singing Teacher](https://arxiv.org/abs/2203.16408) | **INTERSPEECH 2022**  | [✔️Code](https://github.com/WelkinYang/Learn2Sing2.0) | [🎧Demo](https://welkinyang.github.io/Learn2Sing2.0/)
 
-- [A Hierarchical Speaker Representation Framework for One-shot Singing Voice Conversion](https://arxiv.org/abs/2206.13762) | **INTERSPEECH 2022** | [Demo](https://lixucuhk.github.io/Unet-SVC-Demo/)
+- [A Hierarchical Speaker Representation Framework for One-shot Singing Voice Conversion](https://arxiv.org/abs/2206.13762) | **INTERSPEECH 2022** | [🎧Demo](https://lixucuhk.github.io/Unet-SVC-Demo/)
 
-- [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://arxiv.org/abs/2110.12676) | **NeurIPS 2021 Workshop** | [Demo](https://mindslab-ai.github.io/assem-vc/singer/)
+- [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://arxiv.org/abs/2110.12676) | **NeurIPS 2021 Workshop** | [🎧Demo](https://mindslab-ai.github.io/assem-vc/singer/)
 
-- [DiffSVC: A Diffusion Probabilistic Model for Singing Voice Conversion](https://arxiv.org/abs/2105.13871) | **ASRU 2021** | [Demo](https://liusongxiang.github.io/diffsvc/)
+- [DiffSVC: A Diffusion Probabilistic Model for Singing Voice Conversion](https://arxiv.org/abs/2105.13871) | **ASRU 2021** | [🎧Demo](https://liusongxiang.github.io/diffsvc/)
 
-- [FastSVC: Fast Cross-Domain Singing Voice Conversion with Feature-wise Linear Modulation](https://arxiv.org/abs/2011.05731) | **ICME 2021** | [Demo](https://nobody996.github.io/FastSVC/)
+- [FastSVC: Fast Cross-Domain Singing Voice Conversion with Feature-wise Linear Modulation](https://arxiv.org/abs/2011.05731) | **ICME 2021** | [🎧Demo](https://nobody996.github.io/FastSVC/)
 
-- [Unsupervised WaveNet-based Singing Voice Conversion Using Pitch Augmentation and Two-phase Approach](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1107202111044100) | 2021 | [✔️Code](https://github.com/SongRongLee/mir-svc) | [Demo](https://songronglee.github.io/singing-voice-conversion/)
+- [Unsupervised WaveNet-based Singing Voice Conversion Using Pitch Augmentation and Two-phase Approach](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1107202111044100) | 2021 | [✔️Code](https://github.com/SongRongLee/mir-svc) | [🎧Demo](https://songronglee.github.io/singing-voice-conversion/)
 
-- [Towards High-fidelity Singing Voice Conversion with Acoustic Reference and Contrastive Predictive Coding](https://arxiv.org/abs/2110.04754) | 2021 | [Demo](https://georgehappy1.github.io/svcdemo/)
+- [Towards High-fidelity Singing Voice Conversion with Acoustic Reference and Contrastive Predictive Coding](https://arxiv.org/abs/2110.04754) | 2021 | [🎧Demo](https://georgehappy1.github.io/svcdemo/)
 
-- [Zero-shot Singing Voice Conversion](https://program.ismir2020.net/poster_1-08.html) | **ISMIR 2020** | [Demo](https://sites.google.com/izotope.com/ismir2020-audio-demo)
+- [Zero-shot Singing Voice Conversion](https://program.ismir2020.net/poster_1-08.html) | **ISMIR 2020** | [🎧Demo](https://sites.google.com/izotope.com/ismir2020-audio-demo)
 
-- [PitchNet: Unsupervised Singing Voice Conversion with Pitch Adversarial Network](https://arxiv.org/abs/1912.01852) | **ICASSP 2020** | [Demo](https://tencent-ailab.github.io/pitch-net/)
+- [PitchNet: Unsupervised Singing Voice Conversion with Pitch Adversarial Network](https://arxiv.org/abs/1912.01852) | **ICASSP 2020** | [🎧Demo](https://tencent-ailab.github.io/pitch-net/)
 
-- [DurIAN-SC: Duration Informed Attention Network based Singing Voice Conversion System](https://arxiv.org/abs/2008.03009) | **INTERSPEECH 2020** | [Demo](https://tencent-ailab.github.io/learning_singing_from_speech/)
+- [DurIAN-SC: Duration Informed Attention Network based Singing Voice Conversion System](https://arxiv.org/abs/2008.03009) | **INTERSPEECH 2020** | [🎧Demo](https://tencent-ailab.github.io/learning_singing_from_speech/)
 
-- [Unsupervised Cross-Domain Singing Voice Conversion](https://arxiv.org/abs/2008.02830) | **INTERSPEECH 2020** | [Demo](https://singing-conversion.github.io/)
+- [Unsupervised Cross-Domain Singing Voice Conversion](https://arxiv.org/abs/2008.02830) | **INTERSPEECH 2020** | [🎧Demo](https://singing-conversion.github.io/)
 
-- [VAW-GAN for Singing Voice Conversion with Non-parallel Training Data](https://arxiv.org/abs/2008.03992) | **APSIPA 2020** | [✔️Code](https://github.com/johndpope/Singing-Voice-Conversion-with-conditional-VAW-GAN) | [Demo](https://kunzhou9646.github.io/singvaw-gan/)
+- [VAW-GAN for Singing Voice Conversion with Non-parallel Training Data](https://arxiv.org/abs/2008.03992) | **APSIPA 2020** | [✔️Code](https://github.com/johndpope/Singing-Voice-Conversion-with-conditional-VAW-GAN) | [🎧Demo](https://kunzhou9646.github.io/singvaw-gan/)
 
-- [Phonetic Posteriorgrams based Many-to-Many Singing Voice Conversion via Adversarial Training](https://arxiv.org/abs/2012.01837) | 2020 | [Demo](https://hhguo.github.io/DemoEASVC/) | [Unofficial Code](https://github.com/hhguo/EA-SVC)
+- [Phonetic Posteriorgrams based Many-to-Many Singing Voice Conversion via Adversarial Training](https://arxiv.org/abs/2012.01837) | 2020 | [🎧Demo](https://hhguo.github.io/DemoEASVC/) | [Unofficial Code](https://github.com/hhguo/EA-SVC)
 
 ### Dateset
 - [NUS-48E Sung and Spoken Lyrics Corpus](https://smcnus.comp.nus.edu.sg/archive/pdf/2012-2013/2013_05-Pub-NUS-48E.pdf) | [Apply&Download](https://drive.google.com/drive/folders/12pP9uUl0HTVANU3IPLnumTJiRjPtVUMx)
