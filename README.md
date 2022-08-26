@@ -63,6 +63,9 @@ ASRU, SLT
 - [NUS-48E Sung and Spoken Lyrics Corpus](https://smcnus.comp.nus.edu.sg/archive/pdf/2012-2013/2013_05-Pub-NUS-48E.pdf)
   + [Apply&Download](https://drive.google.com/drive/folders/12pP9uUl0HTVANU3IPLnumTJiRjPtVUMx)
 
+- [NHSS: A Speech and Singing Parallel Database](https://arxiv.org/abs/2012.00337)
+  + [Apply&Download](https://hltnus.github.io/NHSSDatabase/index.html)
+
 
 ## Singing Technique Conversion
 - [Zero-shot Singing Technique Conversion](https://arxiv.org/abs/2111.08839) | **CMMR 2021**
