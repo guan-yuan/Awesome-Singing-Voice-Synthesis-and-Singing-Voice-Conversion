@@ -53,14 +53,14 @@ ASRU, SLT
 
 
 ## Voice Conversion (Other Key Words: VC, Voice Cloning, Voice Style Transfer)
-- [End-to-End Zero-Shot Voice Style Transfer with Location-Variable Convolutions](https://arxiv.org/abs/2205.09784) | 2022
-  + [Demo](https://lvc-vc.github.io/lvc-vc-demo/)
+- [End-to-End Zero-Shot Voice Style Transfer with Location-Variable Convolutions](https://arxiv.org/abs/2205.09784) | 2022 | 
+[🎧Demo](https://lvc-vc.github.io/lvc-vc-demo/)
 
 - [A Comparative Study of Self-supervised Speech Representation Based Voice Conversion](https://arxiv.org/abs/2207.04356) | **IEEE JSTSP 2022**
 
-- [Diffusion-Based Voice Conversion with Fast Maximum Likelihood Sampling Scheme](https://arxiv.org/abs/2109.13821) | **ICLR 2022** [✔️**With Code**]
-  + [Code](https://github.com/huawei-noah/Speech-Backbones)
-  + [Demo](https://diffvc-fast-ml-solver.github.io/)
+- [Diffusion-Based Voice Conversion with Fast Maximum Likelihood Sampling Scheme](https://arxiv.org/abs/2109.13821) | **ICLR 2022** | 
+[✔️Code](https://github.com/huawei-noah/Speech-Backbones) | 
+[🎧Demo](https://diffvc-fast-ml-solver.github.io/)
 
 - [YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone](https://arxiv.org/abs/2112.02418) | **ICML 2022** [✔️**With Code**]
   + [Code](https://github.com/edresson/yourtts)
