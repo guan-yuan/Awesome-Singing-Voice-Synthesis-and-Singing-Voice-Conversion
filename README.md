@@ -129,7 +129,7 @@ ASRU, SLT
 [🎧Demo](https://kimythanly.github.io/AGAIN-VC-demo/index)  
 
 - [StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion](https://arxiv.org/abs/2107.10394) | **INTERSPEECH 2021 Best Paper Award** | 
-[✔️Code](https://github.com/yl4579/StarGANv2-VC)
+[✔️Code](https://github.com/yl4579/StarGANv2-VC) | 
 [🎧Demo](https://starganv2-vc.github.io/)  
 
 - [S2VC: A Framework for Any-to-Any Voice Conversion with Self-Supervised Pretrained Representations](https://arxiv.org/abs/2104.02901) | **INTERSPEECH 2021** | 
