@@ -165,7 +165,7 @@ ASRU, SLT
 
 ## Emotional Voice Conversion
 - [A Comparison of Discrete and Soft Speech Units for Improved Voice Conversion](https://arxiv.org/abs/2111.02392) | **ICASSP 2022** | 
-[✔️Code](https://github.com/bshall/soft-vc)
+[✔️Code](https://github.com/bshall/soft-vc) | 
 [🎧Demo](https://bshall.github.io/soft-vc/)  
 
 - [Disentanglement of Emotional Style and Speaker Identity for Expressive Voice Conversion](https://arxiv.org/abs/2110.10326) | **INTERSPEECH 2022** | 
