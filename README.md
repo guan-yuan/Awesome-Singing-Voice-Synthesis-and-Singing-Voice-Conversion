@@ -289,7 +289,7 @@ ASRU, SLT
 [✔️Code](https://github.com/espnet/espnet/tree/master/egs/vcc20)
 
 
-## Other Framework and Toolkits
+## Other Frameworks and Toolkits
 - [🤗 Diffusers](https://github.com/huggingface/diffusers)
 - [Fairseq: Facebook AI Research Sequence-to-Sequence Toolkit](https://github.com/facebookresearch/fairseq)
 
