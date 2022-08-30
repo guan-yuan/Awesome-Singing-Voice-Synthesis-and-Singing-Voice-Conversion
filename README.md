@@ -230,6 +230,16 @@ ASRU, SLT
 [🔽Apply&Download](https://wenet.org.cn/opencpop/)
 
 
+## High-Quality Speech Synthesis (Other Key Words: Text-to-Speech, TTS)
+- [BDDM: Bilateral Denoising Diffusion Models for Fast and High-Quality Speech Synthesis](https://arxiv.org/abs/2203.13508) | **ICLR 2022** | 
+[✔️Code](https://github.com/tencent-ailab/bddm) | 
+[🎧Demo](https://bilateral-denoising-diffusion-model.github.io/)
+
+- [FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis](https://arxiv.org/abs/2204.09934) | **IJCAI 2022** | 
+[✔️Code](https://github.com/Rongjiehuang/FastDiff) | 
+[🎧Demo](https://fastdiff.github.io/)
+
+
 ## Prosody-Aware
 - [Text-Free Prosody-Aware Generative Spoken Language Modeling](https://arxiv.org/abs/2109.03264) | **ACL 2022** | 
 [✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/textless_nlp/pgslm) | 
