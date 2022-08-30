@@ -289,6 +289,11 @@ ASRU, SLT
 [✔️Code](https://github.com/espnet/espnet/tree/master/egs/vcc20)
 
 
+## Other Framework and Toolkits
+- [🤗 Diffusers](https://github.com/huggingface/diffusers)
+- [Fairseq: Facebook AI Research Sequence-to-Sequence Toolkit](https://github.com/facebookresearch/fairseq)
+
+
 ## References
 - [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 - [Awesome Voice Conversion Papers Projects](https://github.com/JeffC0628/awesome-voice-conversion)
