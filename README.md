@@ -283,6 +283,12 @@ ASRU, SLT
 - [Coqui.ai TTS](https://github.com/coqui-ai/TTS)
 
 
+## Data Annotation/Alignment/ Toolkits
+- [Praat: doing phonetics by computer](https://github.com/praat/praat)
+- [Parselmouth - Praat in Python, the Pythonic way](https://github.com/YannickJadoul/Parselmouth)
+- [Montreal Forced Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner)
+
+
 ## Other Frameworks and Toolkits
 - [🤗 Diffusers](https://github.com/huggingface/diffusers)
 - [Fairseq: Facebook AI Research Sequence-to-Sequence Toolkit](https://github.com/facebookresearch/fairseq)
