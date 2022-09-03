@@ -4,8 +4,8 @@ A paper and project list about the cutting edge Speech Synthesis, Text-to-Speech
 Welcome to PR or contact me via email ([guanyuan@gapp.nthu.edu.tw](guanyuan@gapp.nthu.edu.tw)) for updating papers and works.  
 
 
-# Paper List
 * * *
+# Paper List
 ## Journals
 IEEE/ACM TASLP, IEEE JSTSP, JSLHR, IEEE TPAMI  
 
@@ -277,8 +277,8 @@ ASRU, SLT
 [✔️Code](https://github.com/facebookresearch/CPC_audio)
 
 
-# Toolkits
 * * *
+# Toolkits
 ## ASR Toolkits
 - [S3PRL Toolkit](https://github.com/s3prl/s3prl)
 - [WeNet](https://github.com/wenet-e2e/wenet)
@@ -306,8 +306,8 @@ ASRU, SLT
 [✔️Code](https://github.com/espnet/espnet/tree/master/egs/vcc20)
 
 
-# References
 * * *
+# References
 - [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 - [Awesome Voice Conversion Papers Projects](https://github.com/JeffC0628/awesome-voice-conversion)
 - [TTS Papers](http://yqli.tech/page/tts_paper.html)
