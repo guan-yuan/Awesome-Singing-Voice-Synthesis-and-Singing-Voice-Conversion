@@ -62,6 +62,10 @@ ASRU, SLT
 [🎧Demo](https://hhguo.github.io/DemoEASVC/) | [Unofficial Code](https://github.com/hhguo/EA-SVC)
 
 ### Dateset
+- [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](https://openreview.net/forum?id=qiDmAaG6mP) | **NeurIPS 2022** | 
+[🔽Apply&Download](https://github.com/M4Singer/M4Singer) | 
+[🎧Demo](https://m4singer.github.io/)
+
 - [NUS-48E Sung and Spoken Lyrics Corpus](https://smcnus.comp.nus.edu.sg/archive/pdf/2012-2013/2013_05-Pub-NUS-48E.pdf) | 
 [🔽Apply&Download](https://drive.google.com/drive/folders/12pP9uUl0HTVANU3IPLnumTJiRjPtVUMx)
 
@@ -250,9 +254,14 @@ ASRU, SLT
 
 
 ## Vocoder
+- [Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus](https://arxiv.org/abs/2112.10358) | **ACM MM 2021** | 
+[🔽Apply&Download](https://github.com/Multi-Singer/Multi-Singer.github.io) | 
+[✔️Code](https://github.com/Rongjiehuang/Multi-Singer) | 
+[🎧Demo](https://multi-singer.github.io/)
+
 - [Towards achieving robust universal neural vocoding](https://arxiv.org/abs/1811.06292) | **INTERSPEECH 2019** | 
-[✔️Code](https://github.com/bshall/UniversalVocoding)
-[🎧Demo](https://bshall.github.io/UniversalVocoding/)
+[✔️Code](https://github.com/bshall/UniversalVocoding) | 
+[🎧Demo](https://bshall.github.io/UniversalVocoding/) | 
 [Unofficial Code](https://github.com/yistLin/universal-vocoder)
 
 
