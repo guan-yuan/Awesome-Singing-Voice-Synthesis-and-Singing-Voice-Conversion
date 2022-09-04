@@ -282,6 +282,10 @@ ASRU, SLT
 
 
 ## Self-supervised/Unsupervised ASR
+- [Pseudo-Labeling for Massively Multilingual Speech Recognition](https://arxiv.org/abs/2111.00161) | **ICASSP 2022** | 
+[✔️Code](https://github.com/flashlight/wav2letter/tree/main/recipes/mling_pl) | 
+[✔️Code](https://github.com/huggingface/transformers)
+
 - [HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/abs/2106.07447) | **IEEE/ACM TASLP 2021** | 
 [✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/hubert) | 
 [✔️Code](https://github.com/huggingface/transformers)
