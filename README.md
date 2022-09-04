@@ -284,6 +284,9 @@ ASRU, SLT
 
 
 ## Automatic Music Transcription
+- [MT3: Multi-Task Multitrack Music Transcription](https://arxiv.org/abs/2111.03017) | **ICLR 2022** | 
+[✔️Code](https://github.com/magenta/mt3) | 
+
 - [Omnizart: A General Toolbox for Automatic Music Transcription](https://joss.theoj.org/papers/10.21105/joss.03391) | **The Open Journal 2021** | 
 [✔️Code](https://github.com/Music-and-Culture-Technology-Lab/omnizart) | 
 [🎧Demo](https://music-and-culture-technology-lab.github.io/omnizart-doc/)
