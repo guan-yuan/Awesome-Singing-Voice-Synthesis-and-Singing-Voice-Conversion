@@ -234,6 +234,9 @@ ASRU, SLT
 - [Sinsy: A Deep Neural Network-Based Singing Voice Synthesis System](https://arxiv.org/abs/2108.02776) | **IEEE/ACM TASLP 2021** | 
 [✔️Code](https://github.com/r9y9/nnsvs)
 
+- [HiFiSinger: Towards High-Fidelity Neural Singing Voice Synthesis](https://arxiv.org/abs/2009.01776) | 2020 | 
+[🎧Demo](https://speechresearch.github.io/hifisinger/)
+
 ### Dateset
 - [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](https://openreview.net/forum?id=qiDmAaG6mP) | **NeurIPS 2022** | 
 [🔽Apply&Download](https://github.com/M4Singer/M4Singer) | 
