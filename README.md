@@ -96,6 +96,10 @@ ASRU, SLT
 - [S3PRL-VC: Open-Source Voice Conversion Framework with Self-Supervised Speech Representations](https://arxiv.org/abs/2110.06280) | **ICASSP 2022** | 
 [✔️Code](https://github.com/s3prl/s3prl/tree/master/s3prl/downstream/a2o-vc-vcc2020)
 
+- [A Comparison of Discrete and Soft Speech Units for Improved Voice Conversion](https://arxiv.org/abs/2111.02392) | **ICASSP 2022** | 
+[✔️Code](https://github.com/bshall/soft-vc) | 
+[🎧Demo](https://bshall.github.io/soft-vc/)
+
 - [Assem-VC: Realistic Voice Conversion by Assembling Modern Speech Synthesis Techniques](https://arxiv.org/abs/2104.00931) | **ICASSP 2022** | 
 [✔️Code](https://github.com/mindslab-ai/assem-vc) | 
 [🎧Demo](https://mindslab-ai.github.io/assem-vc/)
@@ -171,10 +175,6 @@ ASRU, SLT
 
 
 ## Emotional Voice Conversion
-- [A Comparison of Discrete and Soft Speech Units for Improved Voice Conversion](https://arxiv.org/abs/2111.02392) | **ICASSP 2022** | 
-[✔️Code](https://github.com/bshall/soft-vc) | 
-[🎧Demo](https://bshall.github.io/soft-vc/)
-
 - [Disentanglement of Emotional Style and Speaker Identity for Expressive Voice Conversion](https://arxiv.org/abs/2110.10326) | **INTERSPEECH 2022** | 
 [🎧Demo](https://zy-du.github.io/IS22/)
 
@@ -199,6 +199,11 @@ ASRU, SLT
 - [Transforming Spectrum and Prosody for Emotional Voice Conversion with Non-Parallel Training Data](https://arxiv.org/abs/2002.00198) | **Odyssey 2020** | 
 [✔️Code](https://github.com/KunZhou9646/emotional-voice-conversion-with-CycleGAN-and-CWT-for-Spectrum-and-F0) | 
 [🎧Demo](https://kunzhou9646.github.io/Odyssey2020_emotional_VC//)
+
+### Dateset
+- [Seen and Unseen emotional style transfer for voice conversion with a new emotional speech dataset](https://arxiv.org/abs/2010.14794) | **ICASSP 2021** | 
+[🔽Apply&Download]([https://github.com/M4Singer/M4Singer](https://hltsingapore.github.io/ESD/index.html)) | 
+[🎧Demo](https://hltsingapore.github.io/ESD/demo.html)
 
 
 ## Singing Voice Synthesis (Other Key Words: SVS)
