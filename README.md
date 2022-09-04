@@ -282,6 +282,9 @@ ASRU, SLT
 
 
 ## Self-supervised/Unsupervised ASR
+- [TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech](https://arxiv.org/abs/2007.06028) | **IEEE/ACM TASLP 2020**
+[✔️Code](https://github.com/s3prl/s3prl)
+
 - [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) | 2019 | 
 [✔️Code](https://github.com/facebookresearch/CPC_audio)
 
