@@ -19,6 +19,9 @@ ASRU, SLT
 
 
 ## Singing Voice Conversion (Other Key Words: SVC, Singing Style Transfer)
+- [Improving Adversarial Waveform Generation based Singing Voice Conversion with Harmonic Signals](https://arxiv.org/abs/2201.10130) | **ICASSP 2022** | 
+[🎧Demo](https://hhguo.github.io/DemoHarSVC/)
+
 - [Learn2Sing 2.0: Diffusion and Mutual Information-Based Target Speaker SVS by Learning from Singing Teacher](https://arxiv.org/abs/2203.16408) | **INTERSPEECH 2022**  | 
 [✔️Code](https://github.com/WelkinYang/Learn2Sing2.0) | 
 [🎧Demo](https://welkinyang.github.io/Learn2Sing2.0/)
@@ -107,6 +110,9 @@ ASRU, SLT
 - [NVC-Net: End-to-End Adversarial Voice Conversion](https://arxiv.org/abs/2106.00992) | **ICASSP 2022** | 
 [✔️Code](https://github.com/sony/ai-research-code/tree/master/nvcnet) | 
 [🎧Demo](https://nvcnet.github.io/)
+
+- [Robust Disentangled Variational Speech Representation Learning for Zero-Shot Voice Conversion](https://arxiv.org/abs/2203.16705) | **ICASSP 2022** | 
+[🎧Demo](https://jlian2.github.io/Robust-Voice-Style-Transfer/)
 
 - [Training Robust Zero-Shot Voice Conversion Models with Self-supervised Features](https://arxiv.org/abs/2112.04424) | **ICASSP 2022** | 
 [🎧Demo](https://trungd.github.io/ssl_vc/index.html)
