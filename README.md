@@ -252,12 +252,6 @@ ASRU, SLT
 [🎧Demo](https://fastdiff.github.io/)
 
 
-## Prosody-Aware
-- [Text-Free Prosody-Aware Generative Spoken Language Modeling](https://arxiv.org/abs/2109.03264) | **ACL 2022** | 
-[✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/textless_nlp/pgslm) | 
-[🎧Demo](https://speechbot.github.io/pgslm/)
-
-
 ## Vocoder
 - [Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus](https://arxiv.org/abs/2112.10358) | **ACM MM 2021** | 
 [🔽Apply&Download](https://github.com/Multi-Singer/Multi-Singer.github.io) | 
@@ -268,22 +262,6 @@ ASRU, SLT
 [✔️Code](https://github.com/bshall/UniversalVocoding) | 
 [🎧Demo](https://bshall.github.io/UniversalVocoding/) | 
 [Unofficial Code](https://github.com/yistLin/universal-vocoder)
-
-
-## Speech Insertion
-- [RetrieverTTS: Modeling Decomposed Factors for Text-Based Speech Insertion](https://arxiv.org/abs/2206.13865) | **INTERSPEECH 2022** | 
-[🎧Demo](https://ydcustc.github.io/retrieverTTS-demo/)
-
-
-## Adversarial Attack
-- [Defending Your Voice: Adversarial Attack on Voice Conversion](https://arxiv.org/abs/2005.08781) | **SLT 2021** | 
-[✔️Code](https://github.com/cyhuang-tw/attack-vc) | 
-[🎧Demo](https://yistlin.github.io/attack-vc-demo/)
-
-
-## Speech Data Augmentation
-- [Data Augmenting Contrastive Learning of Speech Representations in the Time Domain](https://arxiv.org/abs/2007.00991) | **SLT 2021** | 
-[✔️Code](https://github.com/facebookresearch/WavAugment)
 
 
 ## Self-supervised/Unsupervised ASR
@@ -351,6 +329,28 @@ ASRU, SLT
 
 - [Utilizing Self-supervised Representations for MOS Prediction](https://arxiv.org/abs/2104.03017) | **INTERSPEECH 2021** | 
 [✔️Code](https://github.com/s3prl/s3prl/tree/master/s3prl/downstream/mos_prediction)
+
+
+## Speech Data Augmentation
+- [Data Augmenting Contrastive Learning of Speech Representations in the Time Domain](https://arxiv.org/abs/2007.00991) | **SLT 2021** | 
+[✔️Code](https://github.com/facebookresearch/WavAugment)
+
+
+## Speech Insertion
+- [RetrieverTTS: Modeling Decomposed Factors for Text-Based Speech Insertion](https://arxiv.org/abs/2206.13865) | **INTERSPEECH 2022** | 
+[🎧Demo](https://ydcustc.github.io/retrieverTTS-demo/)
+
+
+## Prosody-Aware
+- [Text-Free Prosody-Aware Generative Spoken Language Modeling](https://arxiv.org/abs/2109.03264) | **ACL 2022** | 
+[✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/textless_nlp/pgslm) | 
+[🎧Demo](https://speechbot.github.io/pgslm/)
+
+
+## Adversarial Attack
+- [Defending Your Voice: Adversarial Attack on Voice Conversion](https://arxiv.org/abs/2005.08781) | **SLT 2021** | 
+[✔️Code](https://github.com/cyhuang-tw/attack-vc) | 
+[🎧Demo](https://yistlin.github.io/attack-vc-demo/)
 
 
 * * *
