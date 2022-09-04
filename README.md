@@ -277,6 +277,12 @@ ASRU, SLT
 [Unofficial Code](https://github.com/yistLin/universal-vocoder)
 
 
+## Automatic Music Transcription
+- [Omnizart: A General Toolbox for Automatic Music Transcription](https://joss.theoj.org/papers/10.21105/joss.03391) | **The Open Journal 2021** | 
+[✔️Code](https://github.com/Music-and-Culture-Technology-Lab/omnizart) | 
+[🎧Demo](https://music-and-culture-technology-lab.github.io/omnizart-doc/)
+
+
 ## Self-supervised/Unsupervised ASR
 - [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing](https://arxiv.org/abs/2110.13900) | **IEEE JSTSP 2022** | 
 [✔️Code](https://github.com/microsoft/unilm) | 
