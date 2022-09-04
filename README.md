@@ -255,10 +255,14 @@ ASRU, SLT
 [🔽Apply&Download](https://wenet.org.cn/opencpop/)
 
 
-## Music Synthesis
+## Music Synthesis/Music Synthesis
 - [Multi-instrument Music Synthesis with Spectrogram Diffusion](https://arxiv.org/abs/2206.05408) | **ISMIR 2022** | 
 [✔️Code](https://github.com/magenta/music-spectrogram-diffusion) | 
 [🎧Demo](https://storage.googleapis.com/music-synthesis-with-spectrogram-diffusion/index.html)
+
+- [Musika! Fast Infinite Waveform Music Generation](https://arxiv.org/abs/2208.08706) | **ISMIR 2022** | 
+[✔️Code](https://github.com/marcoppasini/musika) | 
+[🎧Demo](https://marcoppasini.github.io/musika)
 
 
 ## High-Quality Speech Synthesis (Other Key Words: Text-to-Speech, TTS)
