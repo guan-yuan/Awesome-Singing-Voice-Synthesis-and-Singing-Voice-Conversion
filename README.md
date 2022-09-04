@@ -388,6 +388,8 @@ ASRU, SLT
 [🔽Apply&Download](https://github.com/nii-yamagishilab/VCC2020-database) | 
 [✔️Code](https://github.com/espnet/espnet/tree/master/egs/vcc20)
 
+- [The Blizzard Challenge](http://www.festvox.org/blizzard/)
+
 
 * * *
 # References
