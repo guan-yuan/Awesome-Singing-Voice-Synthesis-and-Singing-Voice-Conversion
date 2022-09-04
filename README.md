@@ -333,6 +333,10 @@ ASRU, SLT
 [✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/speech_to_text) | 
 [✔️Code](https://github.com/huggingface/transformers)
 
+- [Unsupervised Cross-lingual Representation Learning for Speech Recognition](https://arxiv.org/abs/2006.13979) | 2020 | 
+[✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec) | 
+[✔️Code](https://github.com/huggingface/transformers)
+
 - [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) | 2019 | 
 [✔️Code](https://github.com/facebookresearch/CPC_audio)
 
