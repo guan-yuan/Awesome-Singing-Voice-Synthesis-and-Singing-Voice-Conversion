@@ -282,7 +282,7 @@ ASRU, SLT
 
 
 ## Self-supervised/Unsupervised ASR
-- [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing](https://arxiv.org/abs/2110.13900) | **JSTSP** | 
+- [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing](https://arxiv.org/abs/2110.13900) | **IEEE JSTSP 2022** | 
 [✔️Code](https://github.com/microsoft/unilm) | 
 [✔️Code](https://github.com/huggingface/transformers)
 
@@ -305,6 +305,10 @@ ASRU, SLT
 - [UniSpeech: Unified Speech Representation Learning with Labeled and Unlabeled Data](https://arxiv.org/abs/2101.07597) | **ICML 2021** | 
 [✔️Code](https://github.com/cywang97/unispeech) | 
 [✔️Code](https://github.com/microsoft/UniSpeech) | 
+[✔️Code](https://github.com/huggingface/transformers)
+
+- [XLS-R: Self-supervised Cross-lingual Speech Representation Learning at Scale](https://arxiv.org/abs/2111.09296) | 2021 | 
+[✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec/xlsr) | 
 [✔️Code](https://github.com/huggingface/transformers)
 
 - [Simple and Effective Zero-shot Cross-lingual Phoneme Recognition](https://arxiv.org/abs/2109.11680) | 2021 | 
