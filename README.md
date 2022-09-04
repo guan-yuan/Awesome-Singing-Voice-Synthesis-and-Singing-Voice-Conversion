@@ -286,7 +286,7 @@ ASRU, SLT
 [✔️Code](https://github.com/s3prl/s3prl)
 
 - [vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations](https://arxiv.org/abs/1910.05453) | **ICLR 2020** | 
-[✔️Code](https://github.com/facebookresearch/fairseq)
+[✔️Code](https://github.com/facebookresearch/fairseq) | 
 [✔️Code](https://github.com/huggingface/transformers)
 
 - [Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders](https://arxiv.org/abs/1910.12638) | **ICASSP 2020** | 
