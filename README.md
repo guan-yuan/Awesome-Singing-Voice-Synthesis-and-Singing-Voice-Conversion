@@ -286,6 +286,13 @@ ASRU, SLT
 [✔️Code](https://github.com/facebookresearch/CPC_audio)
 
 
+## Automatic MOS Prediction
+- [The VoiceMOS Challenge 2022](https://arxiv.org/abs/2203.11389) | **INTERSPEECH 2022**
+
+- [Utilizing Self-supervised Representations for MOS Prediction](https://arxiv.org/abs/2104.03017) | **INTERSPEECH 2021** | 
+[✔️Code](https://github.com/s3prl/s3prl/tree/master/s3prl/downstream/mos_prediction)
+
+
 * * *
 # Toolkits
 ## ASR Toolkits
