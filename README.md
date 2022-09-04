@@ -392,6 +392,10 @@ ASRU, SLT
 - [Coqui.ai TTS](https://github.com/coqui-ai/TTS)
 
 
+## Music Processing Toolkits
+- [Muskit: Open-source music processing toolkits](https://github.com/SJTMusicTeam/Muskits)
+
+
 ## Data Annotation/Alignment/ Toolkits
 - [Praat: doing phonetics by computer](https://github.com/praat/praat)
 - [Parselmouth - Praat in Python, the Pythonic way](https://github.com/YannickJadoul/Parselmouth)
