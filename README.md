@@ -282,6 +282,10 @@ ASRU, SLT
 
 
 ## Self-supervised/Unsupervised ASR
+- [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing](https://arxiv.org/abs/2110.13900) | **JSTSP** | 
+[✔️Code](https://github.com/microsoft/unilm) | 
+[✔️Code](https://github.com/huggingface/transformers)
+
 - [UniSpeech-SAT: Universal Speech Representation Learning with Speaker Aware Pre-Training](https://arxiv.org/abs/2110.05752) | **ICASSP 2022** | 
 [✔️Code](https://github.com/microsoft/UniSpeech) | 
 [✔️Code](https://github.com/huggingface/transformers)
@@ -303,8 +307,16 @@ ASRU, SLT
 [✔️Code](https://github.com/microsoft/UniSpeech) | 
 [✔️Code](https://github.com/huggingface/transformers)
 
+- [Simple and Effective Zero-shot Cross-lingual Phoneme Recognition](https://arxiv.org/abs/2109.11680) | 2021 | 
+[✔️Code](https://github.com/facebookresearch/fairseq) | 
+[✔️Code](https://github.com/huggingface/transformers)
+
 - [TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech](https://arxiv.org/abs/2007.06028) | **IEEE/ACM TASLP 2020** | 
 [✔️Code](https://github.com/s3prl/s3prl)
+
+- [wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://arxiv.org/abs/2006.11477) | **NeurIPS 2020** | 
+[✔️Code](https://github.com/facebookresearch/fairseq) | 
+[✔️Code](https://github.com/huggingface/transformers)
 
 - [vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations](https://arxiv.org/abs/1910.05453) | **ICLR 2020** | 
 [✔️Code](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md) | 
@@ -312,6 +324,10 @@ ASRU, SLT
 
 - [Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders](https://arxiv.org/abs/1910.12638) | **ICASSP 2020** | 
 [✔️Code](https://github.com/s3prl/s3prl)
+
+- [fairseq S2T: Fast Speech-to-Text Modeling with fairseq](https://arxiv.org/abs/2010.05171) | **AACL 2020** | 
+[✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/speech_to_text) | 
+[✔️Code](https://github.com/huggingface/transformers)
 
 - [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) | 2019 | 
 [✔️Code](https://github.com/facebookresearch/CPC_audio)
