@@ -282,8 +282,12 @@ ASRU, SLT
 
 
 ## Self-supervised/Unsupervised ASR
+- [UniSpeech-SAT: Universal Speech Representation Learning with Speaker Aware Pre-Training](https://arxiv.org/abs/2110.05752) | **ICASSP 2022** | 
+[✔️Code](https://github.com/microsoft/UniSpeech) | 
+[✔️Code](https://github.com/huggingface/transformers)
+
 - [Performance-Efficiency Trade-offs in Unsupervised Pre-training for Speech Recognition](https://arxiv.org/abs/2109.06870) | **ICASSP 2022** | 
-[✔️Code](https://github.com/asappresearch/sew)
+[✔️Code](https://github.com/asappresearch/sew) | 
 [✔️Code](https://github.com/huggingface/transformers)
 
 - [Pseudo-Labeling for Massively Multilingual Speech Recognition](https://arxiv.org/abs/2111.00161) | **ICASSP 2022** | 
@@ -295,7 +299,8 @@ ASRU, SLT
 [✔️Code](https://github.com/huggingface/transformers)
 
 - [UniSpeech: Unified Speech Representation Learning with Labeled and Unlabeled Data](https://arxiv.org/abs/2101.07597) | **ICML 2021** | 
-[✔️Code](https://github.com/cywang97/unispeech)
+[✔️Code](https://github.com/cywang97/unispeech) | 
+[✔️Code](https://github.com/microsoft/UniSpeech) | 
 [✔️Code](https://github.com/huggingface/transformers)
 
 - [TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech](https://arxiv.org/abs/2007.06028) | **IEEE/ACM TASLP 2020** | 
