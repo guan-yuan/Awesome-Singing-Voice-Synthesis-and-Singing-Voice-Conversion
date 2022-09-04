@@ -282,11 +282,15 @@ ASRU, SLT
 
 
 ## Self-supervised/Unsupervised ASR
+- [HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/abs/2106.07447) | **IEEE/ACM TASLP 2021** | 
+[✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/hubert) | 
+[✔️Code](https://github.com/huggingface/transformers)
+
 - [TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech](https://arxiv.org/abs/2007.06028) | **IEEE/ACM TASLP 2020** | 
 [✔️Code](https://github.com/s3prl/s3prl)
 
 - [vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations](https://arxiv.org/abs/1910.05453) | **ICLR 2020** | 
-[✔️Code](https://github.com/facebookresearch/fairseq) | 
+[✔️Code](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md) | 
 [✔️Code](https://github.com/huggingface/transformers)
 
 - [Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders](https://arxiv.org/abs/1910.12638) | **ICASSP 2020** | 
