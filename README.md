@@ -255,6 +255,12 @@ ASRU, SLT
 [🔽Apply&Download](https://wenet.org.cn/opencpop/)
 
 
+## Music Synthesis
+- [Multi-instrument Music Synthesis with Spectrogram Diffusion](https://arxiv.org/abs/2206.05408) | **ISMIR 2022** | 
+[✔️Code](https://github.com/magenta/music-spectrogram-diffusion) | 
+[🎧Demo](https://storage.googleapis.com/music-synthesis-with-spectrogram-diffusion/index.html)
+
+
 ## High-Quality Speech Synthesis (Other Key Words: Text-to-Speech, TTS)
 - [BDDM: Bilateral Denoising Diffusion Models for Fast and High-Quality Speech Synthesis](https://arxiv.org/abs/2203.13508) | **ICLR 2022** | 
 [✔️Code](https://github.com/tencent-ailab/bddm) | 
