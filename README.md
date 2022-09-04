@@ -173,6 +173,10 @@ ASRU, SLT
 - [One-shot Voice Conversion by Separating Speaker and Content Representations with Instance Normalization](https://arxiv.org/abs/1904.05742) | **INTERSPEECH 2019** | 
 [✔️Code](https://github.com/cyhuang-tw/AdaIN-VC)
 
+### Dateset
+- [CSTR VCTK Corpus: English Multi-speaker Corpus for CSTR Voice Cloning Toolkit](https://datashare.ed.ac.uk/handle/10283/3443) | **2019** | 
+[🔽Apply&Download](https://datashare.ed.ac.uk/handle/10283/3443) | 
+
 
 ## Emotional Voice Conversion
 - [Disentanglement of Emotional Style and Speaker Identity for Expressive Voice Conversion](https://arxiv.org/abs/2110.10326) | **INTERSPEECH 2022** | 
