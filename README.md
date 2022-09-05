@@ -296,6 +296,9 @@ ASRU, SLT
 [🎧Demo](https://r9y9.github.io/projects/pwg/) | 
 [Unofficial Code](https://github.com/kan-bayashi/ParallelWaveGAN)
 
+- [Multi-band MelGAN: Faster Waveform Generation for High-Quality Text-to-Speech](https://arxiv.org/abs/2005.05106) | **INTERSPEECH 2020** | 
+[🎧Demo](https://yanggeng1995.github.io/demo/)
+
 - [MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis](https://arxiv.org/abs/1910.06711) | **NeurIPS 2019** | 
 [✔️Code](https://github.com/descriptinc/melgan-neurips) | 
 [🎧Demo](https://melgan-neurips.github.io/)
