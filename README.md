@@ -184,8 +184,14 @@ ASRU, SLT
 [🔽Apply&Download](https://datashare.ed.ac.uk/handle/10283/3443)
 
 - [AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines](https://arxiv.org/abs/2010.11567) | **2020** | 
-[🔽Apply&Download]([https://datashare.ed.ac.uk/handle/10283/3443](http://www.openslr.org/93/)) | 
+[🔽Apply&Download](http://www.openslr.org/93/) | 
 [🎧Demo](https://sos1sos2sixteen.github.io/aishell3/)
+
+- [AISHELL-2: Transforming Mandarin ASR Research Into Industrial Scale](https://arxiv.org/abs/1808.10583) | **2018** | 
+[🔽Apply&Download](https://github.com/kaldi-asr/kaldi/tree/master/egs/aishell2)
+
+- [AIShell-1: An Open-Source Mandarin Speech Corpus and A Speech Recognition Baseline](https://arxiv.org/abs/1709.05522) | **2017** | 
+[🔽Apply&Download](http://www.openslr.org/33/) 
 
 
 ## Emotional Voice Conversion
