@@ -292,11 +292,15 @@ ASRU, SLT
 [✔️Code](https://github.com/Rongjiehuang/FastDiff) | 
 [🎧Demo](https://fastdiff.github.io/)
 
-- [WaveGrad 2: Iterative Refinement for Text-to-Speech Synthesis](https://arxiv.org/abs/2106.09660) | **INTERSPEECH 2021** | 
-[🎧Demo](https://wavegrad.github.io/v2/)
+- [DiffWave: A Versatile Diffusion Model for Audio Synthesis](https://arxiv.org/abs/2009.09761) | **ICLR 2021** | 
+[✔️Code](https://github.com/lmnt-com/diffwave) | 
+[🎧Demo](https://diffwave-demo.github.io/)
 
 - [WaveGrad: Estimating Gradients for Waveform Generation](https://arxiv.org/abs/2009.00713) | **ICLR 2021** | 
 [🎧Demo](https://wavegrad.github.io/)
+
+- [WaveGrad 2: Iterative Refinement for Text-to-Speech Synthesis](https://arxiv.org/abs/2106.09660) | **INTERSPEECH 2021** | 
+[🎧Demo](https://wavegrad.github.io/v2/)
 
 - [Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus](https://arxiv.org/abs/2112.10358) | **ACM MM 2021** | 
 [🔽Apply&Download](https://github.com/Multi-Singer/Multi-Singer.github.io) | 
@@ -421,6 +425,9 @@ ASRU, SLT
 
 
 ## Speech Enhancement
+- [Conditional Diffusion Probabilistic Model for Speech Enhancement](https://arxiv.org/abs/2202.05256) | **ICASSP 2022** | 
+[✔️Code](https://github.com/neillu23/cdiffuse)
+
 - [A Study on Speech Enhancement Based on Diffusion Probabilistic Model](https://ieeexplore.ieee.org/abstract/document/9689602?casa_token=IDOwZ08QGjkAAAAA:PbT2Gmcj6XAJiz3M5-zdh_c_-z_IBWKyV3NqW9C3NwIiXIaPxxKRqf49cd0kk1ggi-XFMkQ) | **APSIPA 2021**
 
 
