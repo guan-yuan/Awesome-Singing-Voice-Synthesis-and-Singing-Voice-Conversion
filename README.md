@@ -442,8 +442,9 @@ ASRU, SLT
 - [ESPnet: end-to-end speech processing toolkit](https://github.com/espnet/espnet)
 
 
-## Music Processing Toolkits
+## Audio/Music Processing Toolkits
 - [Muskit: Open-source music processing toolkits](https://github.com/SJTMusicTeam/Muskits)
+- [nnAudio: Audio processing by using pytorch 1D convolution network](https://github.com/KinWaiCheuk/nnAudio)
 
 
 ## Data Annotation/Alignment/ Toolkits
