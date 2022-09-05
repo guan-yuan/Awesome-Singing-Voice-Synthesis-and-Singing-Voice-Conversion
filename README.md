@@ -93,7 +93,7 @@ ASRU, SLT
 - [YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone](https://arxiv.org/abs/2112.02418) | **ICML 2022** | 
 [✔️Code](https://github.com/edresson/yourtts) | 
 [🎧Demo](https://huggingface.co/spaces/ICML2022/YourTTS) | 
-[🎧Demo](https://edresson.github.io/YourTTS/)| 
+[🎧Demo](https://edresson.github.io/YourTTS/) | 
 [📝Blog](https://coqui.ai/blog/tts/yourtts-zero-shot-text-synthesis-low-resource-languages)
 
 - [S3PRL-VC: Open-Source Voice Conversion Framework with Self-Supervised Speech Representations](https://arxiv.org/abs/2110.06280) | **ICASSP 2022** | 
