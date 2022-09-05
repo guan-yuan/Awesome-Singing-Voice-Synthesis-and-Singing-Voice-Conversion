@@ -277,6 +277,10 @@ ASRU, SLT
 
 
 ## Vocoder
+- [FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis](https://arxiv.org/abs/2204.09934) | **IJCAI 2022** | 
+[✔️Code](https://github.com/Rongjiehuang/FastDiff) | 
+[🎧Demo](https://fastdiff.github.io/)
+
 - [WaveGrad 2: Iterative Refinement for Text-to-Speech Synthesis](https://arxiv.org/abs/2106.09660) | **INTERSPEECH 2021** | 
 [🎧Demo](https://wavegrad.github.io/v2/)
 
