@@ -233,6 +233,8 @@ ASRU, SLT
 
 
 ## Singing Voice Synthesis (Other Key Words: SVS)
+- [Deep Learning Approaches in Topics of Singing Information Processing](https://ieeexplore.ieee.org/document/9829265) | **IEEE/ACM TASLP 2022**
+
 - [WeSinger 2: Fully Parallel Singing Voice Synthesis via Multi-Singer Conditional Adversarial Training](https://arxiv.org/abs/2207.01886) | 2022 | 
 [🎧Demo](https://zzw922cn.github.io/wesinger2/)
 
