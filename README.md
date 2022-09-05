@@ -251,7 +251,8 @@ ASRU, SLT
 [✔️Code](https://github.com/r9y9/nnsvs)
 
 - [HiFiSinger: Towards High-Fidelity Neural Singing Voice Synthesis](https://arxiv.org/abs/2009.01776) | 2020 | 
-[🎧Demo](https://speechresearch.github.io/hifisinger/)
+[🎧Demo](https://speechresearch.github.io/hifisinger/) | 
+[Unofficial Code](https://github.com/CODEJIN/HiFiSinger)
 
 ### Dateset
 - [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](https://openreview.net/forum?id=qiDmAaG6mP) | **NeurIPS 2022** | 
@@ -276,6 +277,12 @@ ASRU, SLT
 
 
 ## Vocoder
+- [WaveGrad 2: Iterative Refinement for Text-to-Speech Synthesis](https://arxiv.org/abs/2106.09660) | **INTERSPEECH 2021** | 
+[🎧Demo](https://wavegrad.github.io/v2/)
+
+- [WaveGrad: Estimating Gradients for Waveform Generation](https://arxiv.org/abs/2009.00713) | **ICLR 2021** | 
+[🎧Demo](https://wavegrad.github.io/)
+
 - [Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus](https://arxiv.org/abs/2112.10358) | **ACM MM 2021** | 
 [🔽Apply&Download](https://github.com/Multi-Singer/Multi-Singer.github.io) | 
 [✔️Code](https://github.com/Rongjiehuang/Multi-Singer) | 
@@ -284,6 +291,10 @@ ASRU, SLT
 - [HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis](https://arxiv.org/abs/2010.05646) | **NeurIPS 2020** | 
 [✔️Code](https://github.com/jik876/hifi-gan) | 
 [🎧Demo](https://jik876.github.io/hifi-gan-demo/)
+
+- [Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram](https://arxiv.org/abs/1910.11480) | **ICASSP 2020** | 
+[🎧Demo](https://r9y9.github.io/projects/pwg/) | 
+[Unofficial Code](https://github.com/kan-bayashi/ParallelWaveGAN)
 
 - [Towards achieving robust universal neural vocoding](https://arxiv.org/abs/1811.06292) | **INTERSPEECH 2019** | 
 [✔️Code](https://github.com/bshall/UniversalVocoding) | 
