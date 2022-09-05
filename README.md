@@ -76,10 +76,6 @@ ASRU, SLT
 [🔽Apply&Download](https://hltnus.github.io/NHSSDatabase/index.html)
 
 
-## Singing Technique Conversion
-- [Zero-shot Singing Technique Conversion](https://arxiv.org/abs/2111.08839) | **CMMR 2021**
-
-
 ## Voice Conversion (Other Key Words: VC, Voice Cloning, Voice Style Transfer)
 - [End-to-End Zero-Shot Voice Style Transfer with Location-Variable Convolutions](https://arxiv.org/abs/2205.09784) | 2022 | 
 [🎧Demo](https://lvc-vc.github.io/lvc-vc-demo/)
@@ -314,6 +310,16 @@ ASRU, SLT
 [✔️Code](https://github.com/bshall/UniversalVocoding) | 
 [🎧Demo](https://bshall.github.io/UniversalVocoding/) | 
 [Unofficial Code](https://github.com/yistLin/universal-vocoder)
+
+
+## Singing Technique Classification/Singing Technique Conversion
+- [Deformable CNN and Imbalance-Aware Feature Learning for Singing Technique Classification](https://arxiv.org/abs/2206.12230) | **INTERSPEECH 2022**
+
+- [Zero-shot Singing Technique Conversion](https://arxiv.org/abs/2111.08839) | **CMMR 2021**
+
+### Dateset
+- [VocalSet: A Singing Voice Dataset](http://ismir2018.ircam.fr/doc/pdfs/114_Paper.pdf) | **ISMIR 2018** | 
+[🔽Apply&Download](https://zenodo.org/record/1203819#.YxX43nZBx3g)
 
 
 ## Music Synthesis/Music Synthesis
