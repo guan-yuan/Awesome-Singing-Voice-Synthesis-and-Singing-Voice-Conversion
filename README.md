@@ -281,6 +281,10 @@ ASRU, SLT
 [✔️Code](https://github.com/Rongjiehuang/Multi-Singer) | 
 [🎧Demo](https://multi-singer.github.io/)
 
+- [HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis](https://arxiv.org/abs/2010.05646) | **NeurIPS 2020** | 
+[✔️Code](https://github.com/jik876/hifi-gan) | 
+[🎧Demo](https://jik876.github.io/hifi-gan-demo/)
+
 - [Towards achieving robust universal neural vocoding](https://arxiv.org/abs/1811.06292) | **INTERSPEECH 2019** | 
 [✔️Code](https://github.com/bshall/UniversalVocoding) | 
 [🎧Demo](https://bshall.github.io/UniversalVocoding/) | 
