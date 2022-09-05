@@ -420,10 +420,18 @@ ASRU, SLT
 [🎧Demo](https://ydcustc.github.io/retrieverTTS-demo/)
 
 
+## Speech Enhancement
+- [A Study on Speech Enhancement Based on Diffusion Probabilistic Model](https://ieeexplore.ieee.org/abstract/document/9689602?casa_token=IDOwZ08QGjkAAAAA:PbT2Gmcj6XAJiz3M5-zdh_c_-z_IBWKyV3NqW9C3NwIiXIaPxxKRqf49cd0kk1ggi-XFMkQ) | **APSIPA 2021**
+
+
 ## Prosody-Aware
 - [Text-Free Prosody-Aware Generative Spoken Language Modeling](https://arxiv.org/abs/2109.03264) | **ACL 2022** | 
 [✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/textless_nlp/pgslm) | 
 [🎧Demo](https://speechbot.github.io/pgslm/)
+
+- [Speech BERT Embedding For Improving Prosody in Neural TTS](https://arxiv.org/abs/2106.04312) | **ICASSP 2021** | 
+[✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/textless_nlp/pgslm) | 
+[🎧Demo](https://judy44chen.github.io/TTSSpeechBERT/)
 
 
 ## Adversarial Attack
