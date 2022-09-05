@@ -277,6 +277,9 @@ ASRU, SLT
 
 
 ## Vocoder
+- [BinauralGrad: A Two-Stage Conditional Diffusion Probabilistic Model for Binaural Audio Synthesis](https://arxiv.org/abs/2205.14807) | **2022** | 
+[🎧Demo](https://speechresearch.github.io/binauralgrad/)
+
 - [FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis](https://arxiv.org/abs/2204.09934) | **IJCAI 2022** | 
 [✔️Code](https://github.com/Rongjiehuang/FastDiff) | 
 [🎧Demo](https://fastdiff.github.io/)
@@ -464,6 +467,7 @@ ASRU, SLT
 - [TTS Papers](http://yqli.tech/page/tts_paper.html)
 - [🐸 TTS papers](https://github.com/coqui-ai/TTS-papers)
 - [Speech Synthesis Paper](https://github.com/wenet-e2e/speech-synthesis-paper)
+- [Awesome Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 - [Papers With Code: Voice Conversion](https://paperswithcode.com/task/voice-conversion)
 - [Papers With Code: Singing Voice Conversion](https://paperswithcode.com/search?q_meta=&q_type=&q=singing+voice+conversion)
 - [Papers With Code: Singing Voice Synthesis](https://paperswithcode.com/search?q_meta=&q_type=&q=singing+voice+synthesis)
