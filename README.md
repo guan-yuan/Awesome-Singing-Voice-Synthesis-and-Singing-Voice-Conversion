@@ -394,6 +394,7 @@ ASRU, SLT
 
 ## TTS Toolkits
 - [Coqui.ai TTS](https://github.com/coqui-ai/TTS)
+- [ESPnet: end-to-end speech processing toolkit](https://github.com/espnet/espnet)
 
 
 ## Music Processing Toolkits
