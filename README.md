@@ -296,6 +296,10 @@ ASRU, SLT
 [🎧Demo](https://r9y9.github.io/projects/pwg/) | 
 [Unofficial Code](https://github.com/kan-bayashi/ParallelWaveGAN)
 
+- [MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis](https://arxiv.org/abs/1910.06711) | **NeurIPS 2019** | 
+[✔️Code](https://github.com/descriptinc/melgan-neurips) | 
+[🎧Demo](https://melgan-neurips.github.io/)
+
 - [Towards achieving robust universal neural vocoding](https://arxiv.org/abs/1811.06292) | **INTERSPEECH 2019** | 
 [✔️Code](https://github.com/bshall/UniversalVocoding) | 
 [🎧Demo](https://bshall.github.io/UniversalVocoding/) | 
