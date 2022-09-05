@@ -181,7 +181,7 @@ ASRU, SLT
 
 ### Dateset
 - [CSTR VCTK Corpus: English Multi-speaker Corpus for CSTR Voice Cloning Toolkit](https://datashare.ed.ac.uk/handle/10283/3443) | **2019** | 
-[🔽Apply&Download](https://datashare.ed.ac.uk/handle/10283/3443) | 
+[🔽Apply&Download](https://datashare.ed.ac.uk/handle/10283/3443)
 
 - [AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines](https://arxiv.org/abs/2010.11567) | **2020** | 
 [🔽Apply&Download]([https://datashare.ed.ac.uk/handle/10283/3443](http://www.openslr.org/93/)) | 
