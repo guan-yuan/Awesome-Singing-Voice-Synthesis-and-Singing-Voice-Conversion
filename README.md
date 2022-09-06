@@ -455,6 +455,7 @@ ASRU, SLT
 
 
 ## TTS Toolkits
+- [NATSpeech: A Non-Autoregressive Text-to-Speech Framework](https://github.com/NATSpeech/NATSpeech)
 - [Coqui.ai TTS](https://github.com/coqui-ai/TTS)
 - [ESPnet: end-to-end speech processing toolkit](https://github.com/espnet/espnet)
 
