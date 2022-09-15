@@ -292,6 +292,10 @@ ASRU, SLT
 [✔️Code](https://github.com/Rongjiehuang/FastDiff) | 
 [🎧Demo](https://fastdiff.github.io/)
 
+- [DDSP-based Singing Vocoders: A New Subtractive-based Synthesizer and A Comprehensive Evaluation](https://arxiv.org/abs/2208.04756) | **ISMIR 2022** | 
+[✔️Code](https://github.com/YatingMusic/ddsp-singing-vocoders/) | 
+[🎧Demo](https://ddspvocoder.github.io/ismir-demo/)
+
 - [DiffWave: A Versatile Diffusion Model for Audio Synthesis](https://arxiv.org/abs/2009.09761) | **ICLR 2021** | 
 [✔️Code](https://github.com/lmnt-com/diffwave) | 
 [🎧Demo](https://diffwave-demo.github.io/)
