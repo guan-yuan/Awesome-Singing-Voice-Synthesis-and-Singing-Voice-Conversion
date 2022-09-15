@@ -501,6 +501,7 @@ ASRU, SLT
 - [Papers With Code: Singing Voice Conversion](https://paperswithcode.com/search?q_meta=&q_type=&q=singing+voice+conversion)
 - [Papers With Code: Singing Voice Synthesis](https://paperswithcode.com/search?q_meta=&q_type=&q=singing+voice+synthesis)
 - [Awesome Open Source: Voice Conversion](https://awesomeopensource.com/projects/voice-conversion)
+- [A list of demo websites for automatic music generation research](https://github.com/affige/genmusic_demo_list)
 - [ICASSP 2021 Paper List-VC](https://github.com/xinshengwang/ICASSP2021_paper_list-VC)
 
 
