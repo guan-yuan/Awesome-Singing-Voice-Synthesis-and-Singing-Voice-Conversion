@@ -79,6 +79,8 @@ ASRU, SLT
 ## Singing Technique Conversion/Singing Technique Classification
 - [Deformable CNN and Imbalance-Aware Feature Learning for Singing Technique Classification](https://arxiv.org/abs/2206.12230) | **INTERSPEECH 2022**
 
+- [Investigating Time-Frequency Representations for Audio Feature Extraction in Singing Technique Classification](https://www.slis.tsukuba.ac.jp/lspc/0000890.pdf) | **APSIPA 2021**
+
 - [Zero-shot Singing Technique Conversion](https://arxiv.org/abs/2111.08839) | **CMMR 2021**
 
 ### Dateset
