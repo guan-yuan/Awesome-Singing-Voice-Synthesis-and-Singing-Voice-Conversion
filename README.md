@@ -308,7 +308,7 @@ ASRU, SLT
 - [WaveGrad 2: Iterative Refinement for Text-to-Speech Synthesis](https://arxiv.org/abs/2106.09660) | **INTERSPEECH 2021** | 
 [🎧Demo](https://wavegrad.github.io/v2/)
 
-- [Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus](https://arxiv.org/abs/2112.10358) | **ACM MM 2021** | 
+- [Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus](https://arxiv.org/abs/2112.10358) | **ACMMM 2021** | 
 [🔽Apply&Download](https://github.com/Multi-Singer/Multi-Singer.github.io) | 
 [✔️Code](https://github.com/Rongjiehuang/Multi-Singer) | 
 [🎧Demo](https://multi-singer.github.io/)
