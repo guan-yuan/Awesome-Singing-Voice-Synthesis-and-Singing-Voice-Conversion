@@ -30,6 +30,7 @@ ASRU, SLT
 - [A Hierarchical Speaker Representation Framework for One-shot Singing Voice Conversion](https://arxiv.org/abs/2206.13762) | **INTERSPEECH 2022** | 
 [🎧Demo](https://lixucuhk.github.io/Unet-SVC-Demo/)
 
+[**2021**]
 - [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://arxiv.org/abs/2110.12676) | **NeurIPS 2021 Workshop** | 
 [🎧Demo](https://mindslab-ai.github.io/assem-vc/singer/)
 
@@ -46,6 +47,7 @@ ASRU, SLT
 - [Towards High-fidelity Singing Voice Conversion with Acoustic Reference and Contrastive Predictive Coding](https://arxiv.org/abs/2110.04754) | 2021 | 
 [🎧Demo](https://georgehappy1.github.io/svcdemo/)
 
+[**2020**]
 - [Zero-shot Singing Voice Conversion](https://program.ismir2020.net/poster_1-08.html) | **ISMIR 2020** | 
 [🎧Demo](https://sites.google.com/izotope.com/ismir2020-audio-demo)
 
@@ -78,8 +80,10 @@ ASRU, SLT
 
 
 ## Singing Technique Conversion/Singing Technique Classification
+[**2022**]
 - [Deformable CNN and Imbalance-Aware Feature Learning for Singing Technique Classification](https://arxiv.org/abs/2206.12230) | **INTERSPEECH 2022**
 
+[**2021**]
 - [Investigating Time-Frequency Representations for Audio Feature Extraction in Singing Technique Classification](https://www.slis.tsukuba.ac.jp/lspc/0000890.pdf) | **APSIPA 2021**
 
 - [Zero-shot Singing Technique Conversion](https://arxiv.org/abs/2111.08839) | **CMMR 2021**
@@ -90,6 +94,7 @@ ASRU, SLT
 
 
 ## Voice Conversion (Other Key Words: VC, Voice Cloning, Voice Style Transfer)
+[**2022**]
 - [End-to-End Zero-Shot Voice Style Transfer with Location-Variable Convolutions](https://arxiv.org/abs/2205.09784) | 2022 | 
 [🎧Demo](https://lvc-vc.github.io/lvc-vc-demo/)
 
@@ -137,6 +142,7 @@ ASRU, SLT
 - [Glow-WaveGAN 2: High-quality Zero-shot Text-to-speech Synthesis and Any-to-any Voice Conversion](https://arxiv.org/abs/2207.01832) | **INTERSPEECH 2022** | 
 [🎧Demo](https://leiyi420.github.io/glow-wavegan2/)
 
+[**2021**]
 - [Any-to-Many Voice Conversion with Location-Relative Sequence-to-Sequence Modeling](https://arxiv.org/abs/2009.02725v3) | **IEEE/ACM TASLP 2021** | 
 [✔️Code](https://github.com/liusongxiang/ppg-vc) | 
 [🎧Demo](https://liusongxiang.github.io/BNE-Seq2SeqMoL-VC/)
@@ -176,11 +182,13 @@ ASRU, SLT
 [✔️Code](https://github.com/BrightGu/MediumVC) | 
 [🎧Demo](https://brightgu.github.io/MediumVC/)
 
+[**2020**]
 - [An Overview of Voice Conversion and its Challenges: From Statistical Modeling to Deep Learning](https://arxiv.org/abs/2008.03648) | **IEEE/ACM TASLP 2020**
 
 - [Unsupervised Speech Decomposition via Triple Information Bottleneck](https://arxiv.org/abs/2004.11284) | **ICML 2020** | 
 [✔️Code](https://github.com/auspicious3000/SpeechSplit)
 
+[**2019**]
 - [AUTOVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss](https://arxiv.org/abs/1905.05879) | **ICML 2019** | 
 [✔️Code](https://github.com/auspicious3000/autovc) | 
 [🎧Demo](https://auspicious3000.github.io/autovc-demo/)
@@ -204,16 +212,18 @@ ASRU, SLT
 
 
 ## Emotional Voice Conversion
+[**2022**]
 - [Disentanglement of Emotional Style and Speaker Identity for Expressive Voice Conversion](https://arxiv.org/abs/2110.10326) | **INTERSPEECH 2022** | 
 [🎧Demo](https://zy-du.github.io/IS22/)
 
 - [Cross-speaker Emotion Transfer Based On Prosody Compensation for End-to-End Speech Synthesis](https://arxiv.org/abs/2207.01198) | **INTERSPEECH 2022** | 
 [🎧Demo](https://silyfox.github.io/cspc/)
 
-- [Emotion Intensity and its Control for Emotional Voice Conversion](https://arxiv.org/abs/2201.03967) | **IEEE Transactions on Affective Computing** | 
+- [Emotion Intensity and its Control for Emotional Voice Conversion](https://arxiv.org/abs/2201.03967) | **IEEE Transactions on Affective Computing 2022** | 
 [✔️Code](https://github.com/KunZhou9646/Emovox) | 
 [🎧Demo](https://kunzhou9646.github.io/Emovox_demo/)
 
+[**2021**]
 - [Limited Data Emotional Voice Conversion Leveraging Text-to-Speech: Two-stage Sequence-to-Sequence Training](https://arxiv.org/abs/2103.16809) | **INTERSPEECH 2021** | 
 [✔️Code](https://github.com/KunZhou9646/seq2seq-EVC) | 
 [🎧Demo](https://kunzhou9646.github.io/IS21/)
@@ -221,6 +231,7 @@ ASRU, SLT
 - [Textless Speech Emotion Conversion using Discrete and Decomposed Representations](https://arxiv.org/abs/2111.07402) | 2021 | 
 [🎧Demo](https://speechbot.github.io/emotion/)
 
+[**2020**]
 - [Converting Anyone's Emotion: Towards Speaker-Independent Emotional Voice Conversion](https://arxiv.org/abs/2005.07025) | **INTERSPEECH 2020** | 
 [✔️Code](https://github.com/KunZhou9646/Speaker-independent-emotional-voice-conversion-based-on-conditional-VAW-GAN-and-CWT) | 
 [🎧Demo](https://kunzhou9646.github.io/speaker-independent-emotional-vc/)
@@ -236,10 +247,7 @@ ASRU, SLT
 
 
 ## Singing Voice Synthesis (Other Key Words: SVS)
-- [ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech](https://arxiv.org/abs/2207.06389) | **ACM MM 2022** | 
-[✔️Code](https://github.com/Rongjiehuang/ProDiff) | 
-[🎧Demo](https://prodiff.github.io/)
-
+[**2022**]
 - [Deep Learning Approaches in Topics of Singing Information Processing](https://ieeexplore.ieee.org/document/9829265) | **IEEE/ACM TASLP 2022**
 
 - [WeSinger 2: Fully Parallel Singing Voice Synthesis via Multi-Singer Conditional Adversarial Training](https://arxiv.org/abs/2207.01886) | 2022 | 
@@ -262,9 +270,11 @@ ASRU, SLT
 - [WeSinger: Data-augmented Singing Voice Synthesis with Auxiliary Losses](https://arxiv.org/abs/2203.10750?s=03) | **INTERSPEECH 2022** | 
 [🎧Demo](https://zzw922cn.github.io/wesinger/)
 
+[**2021**]
 - [Sinsy: A Deep Neural Network-Based Singing Voice Synthesis System](https://arxiv.org/abs/2108.02776) | **IEEE/ACM TASLP 2021** | 
 [✔️Code](https://github.com/r9y9/nnsvs)
 
+[**2020**]
 - [HiFiSinger: Towards High-Fidelity Neural Singing Voice Synthesis](https://arxiv.org/abs/2009.01776) | 2020 | 
 [🎧Demo](https://speechresearch.github.io/hifisinger/) | 
 [Unofficial Code](https://github.com/CODEJIN/HiFiSinger)
@@ -282,6 +292,11 @@ ASRU, SLT
 
 
 ## High-Quality Speech Synthesis (Other Key Words: Text-to-Speech, TTS)
+[**2022**]
+- [ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech](https://arxiv.org/abs/2207.06389) | **ACM MM 2022** | 
+[✔️Code](https://github.com/Rongjiehuang/ProDiff) | 
+[🎧Demo](https://prodiff.github.io/)
+
 - [BDDM: Bilateral Denoising Diffusion Models for Fast and High-Quality Speech Synthesis](https://arxiv.org/abs/2203.13508) | **ICLR 2022** | 
 [✔️Code](https://github.com/tencent-ailab/bddm) | 
 [🎧Demo](https://bilateral-denoising-diffusion-model.github.io/)
@@ -292,6 +307,7 @@ ASRU, SLT
 
 
 ## Vocoder
+[**2022**]
 - [BinauralGrad: A Two-Stage Conditional Diffusion Probabilistic Model for Binaural Audio Synthesis](https://arxiv.org/abs/2205.14807) | **2022** | 
 [🎧Demo](https://speechresearch.github.io/binauralgrad/)
 
@@ -303,6 +319,7 @@ ASRU, SLT
 [✔️Code](https://github.com/YatingMusic/ddsp-singing-vocoders/) | 
 [🎧Demo](https://ddspvocoder.github.io/ismir-demo/)
 
+[**2021**]
 - [DiffWave: A Versatile Diffusion Model for Audio Synthesis](https://arxiv.org/abs/2009.09761) | **ICLR 2021** | 
 [✔️Code](https://github.com/lmnt-com/diffwave) | 
 [🎧Demo](https://diffwave-demo.github.io/)
@@ -318,6 +335,7 @@ ASRU, SLT
 [✔️Code](https://github.com/Rongjiehuang/Multi-Singer) | 
 [🎧Demo](https://multi-singer.github.io/)
 
+[**2020**]
 - [HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis](https://arxiv.org/abs/2010.05646) | **NeurIPS 2020** | 
 [✔️Code](https://github.com/jik876/hifi-gan) | 
 [🎧Demo](https://jik876.github.io/hifi-gan-demo/)
@@ -329,6 +347,7 @@ ASRU, SLT
 - [Multi-band MelGAN: Faster Waveform Generation for High-Quality Text-to-Speech](https://arxiv.org/abs/2005.05106) | **INTERSPEECH 2020** | 
 [🎧Demo](https://yanggeng1995.github.io/demo/)
 
+[**2019**]
 - [MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis](https://arxiv.org/abs/1910.06711) | **NeurIPS 2019** | 
 [✔️Code](https://github.com/descriptinc/melgan-neurips) | 
 [🎧Demo](https://melgan-neurips.github.io/)
@@ -340,6 +359,7 @@ ASRU, SLT
 
 
 ## Music Synthesis/Music Synthesis
+[**2022**]
 - [Multi-instrument Music Synthesis with Spectrogram Diffusion](https://arxiv.org/abs/2206.05408) | **ISMIR 2022** | 
 [✔️Code](https://github.com/magenta/music-spectrogram-diffusion) | 
 [🎧Demo](https://storage.googleapis.com/music-synthesis-with-spectrogram-diffusion/index.html)
@@ -350,15 +370,18 @@ ASRU, SLT
 
 
 ## Automatic Music Transcription
+[**2022**]
 - [MT3: Multi-Task Multitrack Music Transcription](https://arxiv.org/abs/2111.03017) | **ICLR 2022** | 
 [✔️Code](https://github.com/magenta/mt3) | 
 
+[**2021**]
 - [Omnizart: A General Toolbox for Automatic Music Transcription](https://joss.theoj.org/papers/10.21105/joss.03391) | **The Open Journal 2021** | 
 [✔️Code](https://github.com/Music-and-Culture-Technology-Lab/omnizart) | 
 [🎧Demo](https://music-and-culture-technology-lab.github.io/omnizart-doc/)
 
 
 ## Self-supervised/Unsupervised ASR
+[**2022**]
 - [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing](https://arxiv.org/abs/2110.13900) | **IEEE JSTSP 2022** | 
 [✔️Code](https://github.com/microsoft/unilm) | 
 [✔️Code](https://github.com/huggingface/transformers)
@@ -375,6 +398,7 @@ ASRU, SLT
 [✔️Code](https://github.com/flashlight/wav2letter/tree/main/recipes/mling_pl) | 
 [✔️Code](https://github.com/huggingface/transformers)
 
+[**2021**]
 - [HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/abs/2106.07447) | **IEEE/ACM TASLP 2021** | 
 [✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/hubert) | 
 [✔️Code](https://github.com/huggingface/transformers)
@@ -392,6 +416,7 @@ ASRU, SLT
 [✔️Code](https://github.com/facebookresearch/fairseq) | 
 [✔️Code](https://github.com/huggingface/transformers)
 
+[**2020**]
 - [TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech](https://arxiv.org/abs/2007.06028) | **IEEE/ACM TASLP 2020** | 
 [✔️Code](https://github.com/s3prl/s3prl)
 
@@ -414,45 +439,55 @@ ASRU, SLT
 [✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec) | 
 [✔️Code](https://github.com/huggingface/transformers)
 
+[**2019**]
 - [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) | 2019 | 
 [✔️Code](https://github.com/facebookresearch/CPC_audio)
 
 
 ## Automatic MOS Prediction
+[**2022**]
 - [The VoiceMOS Challenge 2022](https://arxiv.org/abs/2203.11389) | **INTERSPEECH 2022**
 
+[**2021**]
 - [Utilizing Self-supervised Representations for MOS Prediction](https://arxiv.org/abs/2104.03017) | **INTERSPEECH 2021** | 
 [✔️Code](https://github.com/s3prl/s3prl/tree/master/s3prl/downstream/mos_prediction)
 
 
 ## Speech Data Augmentation
+[**2021**]
 - [Data Augmenting Contrastive Learning of Speech Representations in the Time Domain](https://arxiv.org/abs/2007.00991) | **SLT 2021** | 
 [✔️Code](https://github.com/facebookresearch/WavAugment)
 
 
 ## Speech Insertion
+[**2022**]
 - [RetrieverTTS: Modeling Decomposed Factors for Text-Based Speech Insertion](https://arxiv.org/abs/2206.13865) | **INTERSPEECH 2022** | 
 [🎧Demo](https://ydcustc.github.io/retrieverTTS-demo/)
 
 
 ## Speech Enhancement
+[**2022**]
 - [Conditional Diffusion Probabilistic Model for Speech Enhancement](https://arxiv.org/abs/2202.05256) | **ICASSP 2022** | 
 [✔️Code](https://github.com/neillu23/cdiffuse)
 
+[**2021**]
 - [A Study on Speech Enhancement Based on Diffusion Probabilistic Model](https://ieeexplore.ieee.org/abstract/document/9689602?casa_token=IDOwZ08QGjkAAAAA:PbT2Gmcj6XAJiz3M5-zdh_c_-z_IBWKyV3NqW9C3NwIiXIaPxxKRqf49cd0kk1ggi-XFMkQ) | **APSIPA 2021**
 
 
 ## Prosody-Aware
+[**2022**]
 - [Text-Free Prosody-Aware Generative Spoken Language Modeling](https://arxiv.org/abs/2109.03264) | **ACL 2022** | 
 [✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/textless_nlp/pgslm) | 
 [🎧Demo](https://speechbot.github.io/pgslm/)
 
+[**2021**]
 - [Speech BERT Embedding For Improving Prosody in Neural TTS](https://arxiv.org/abs/2106.04312) | **ICASSP 2021** | 
 [✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/textless_nlp/pgslm) | 
 [🎧Demo](https://judy44chen.github.io/TTSSpeechBERT/)
 
 
 ## Adversarial Attack
+[**2021**]
 - [Defending Your Voice: Adversarial Attack on Voice Conversion](https://arxiv.org/abs/2005.08781) | **SLT 2021** | 
 [✔️Code](https://github.com/cyhuang-tw/attack-vc) | 
 [🎧Demo](https://yistlin.github.io/attack-vc-demo/)
