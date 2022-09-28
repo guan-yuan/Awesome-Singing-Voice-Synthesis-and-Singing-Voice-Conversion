@@ -37,19 +37,22 @@ ASRU, SLT
 - [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://arxiv.org/abs/2110.12676) | **NeurIPS 2021 Workshop** | 
 [🎧Demo](https://mindslab-ai.github.io/assem-vc/singer/)
 
+- [Towards High-fidelity Singing Voice Conversion with Acoustic Reference and Contrastive Predictive Coding](https://arxiv.org/abs/2110.04754) | 2021/10 | 
+[🎧Demo](https://georgehappy1.github.io/svcdemo/)
+
 - [FastSVC: Fast Cross-Domain Singing Voice Conversion with Feature-wise Linear Modulation](https://arxiv.org/abs/2011.05731) | **ICME 2021** | 
 [🎧Demo](https://nobody996.github.io/FastSVC/)
 
-- [Unsupervised WaveNet-based Singing Voice Conversion Using Pitch Augmentation and Two-phase Approach](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1107202111044100) | 2021 | 
+- [Unsupervised WaveNet-based Singing Voice Conversion Using Pitch Augmentation and Two-phase Approach](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-1107202111044100) | 2021/07 | 
 [✔️Code](https://github.com/SongRongLee/mir-svc) | 
 [🎧Demo](https://songronglee.github.io/singing-voice-conversion/)
-
-- [Towards High-fidelity Singing Voice Conversion with Acoustic Reference and Contrastive Predictive Coding](https://arxiv.org/abs/2110.04754) | 2021 | 
-[🎧Demo](https://georgehappy1.github.io/svcdemo/)
 
 [**2020**]
 - [Zero-shot Singing Voice Conversion](https://program.ismir2020.net/poster_1-08.html) | **ISMIR 2020** | 
 [🎧Demo](https://sites.google.com/izotope.com/ismir2020-audio-demo)
+
+- [Phonetic Posteriorgrams based Many-to-Many Singing Voice Conversion via Adversarial Training](https://arxiv.org/abs/2012.01837) | 2020/12 | 
+[🎧Demo](https://hhguo.github.io/DemoEASVC/) | [Unofficial Code](https://github.com/hhguo/EA-SVC)
 
 - [DurIAN-SC: Duration Informed Attention Network based Singing Voice Conversion System](https://arxiv.org/abs/2008.03009) | **INTERSPEECH 2020** | 
 [🎧Demo](https://tencent-ailab.github.io/learning_singing_from_speech/)
@@ -63,9 +66,6 @@ ASRU, SLT
 - [VAW-GAN for Singing Voice Conversion with Non-parallel Training Data](https://arxiv.org/abs/2008.03992) | **APSIPA 2020** | 
 [✔️Code](https://github.com/johndpope/Singing-Voice-Conversion-with-conditional-VAW-GAN) | 
 [🎧Demo](https://kunzhou9646.github.io/singvaw-gan/)
-
-- [Phonetic Posteriorgrams based Many-to-Many Singing Voice Conversion via Adversarial Training](https://arxiv.org/abs/2012.01837) | 2020 | 
-[🎧Demo](https://hhguo.github.io/DemoEASVC/) | [Unofficial Code](https://github.com/hhguo/EA-SVC)
 
 ### Dateset
 - [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](https://openreview.net/forum?id=qiDmAaG6mP) | **NeurIPS 2022** | 
