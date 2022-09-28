@@ -113,9 +113,6 @@ ASRU, SLT
 
 - [A Comparative Study of Self-supervised Speech Representation Based Voice Conversion](https://arxiv.org/abs/2207.04356) | **IEEE JSTSP 2022/07**
 
-- [End-to-End Zero-Shot Voice Style Transfer with Location-Variable Convolutions](https://arxiv.org/abs/2205.09784) | 2022/05 | 
-[🎧Demo](https://lvc-vc.github.io/lvc-vc-demo/)
-
 - [S3PRL-VC: Open-Source Voice Conversion Framework with Self-Supervised Speech Representations](https://arxiv.org/abs/2110.06280) | **ICASSP 2022** | 
 [✔️Code](https://github.com/s3prl/s3prl/tree/master/s3prl/downstream/a2o-vc-vcc2020)
 
@@ -141,6 +138,9 @@ ASRU, SLT
 
 - [DGC-vector: A new speaker embedding for zero-shot voice conversion](https://arxiv.org/abs/2203.09722) | **ICASSP 2022** | 
 [🎧Demo](https://shaw0fr.github.io/DGC-vector-DEMO/)
+
+- [End-to-End Zero-Shot Voice Style Transfer with Location-Variable Convolutions](https://arxiv.org/abs/2205.09784) | 2022/05 | 
+[🎧Demo](https://lvc-vc.github.io/lvc-vc-demo/)
 
 [**2021**]
 - [On Prosody Modeling for ASR+TTS based Voice Conversion](https://arxiv.org/abs/2107.09477) | **ASRU 2021** | 
