@@ -150,6 +150,10 @@ ASRU, SLT
 [🎧Demo](https://harsh-grenadilla-e40.notion.site/Demo-page-for-NANSY-37d4fd8ffb514765a2b234b04c8fc0f6) | 
 [Unofficial Code](https://github.com/dhchoi99/NANSY)
 
+- [MediumVC: Any-to-any voice conversion using synthetic specific-speaker speeches as intermedium features](https://arxiv.org/abs/2110.02500) | 2021/10 | 
+[✔️Code](https://github.com/BrightGu/MediumVC) | 
+[🎧Demo](https://brightgu.github.io/MediumVC/)
+
 - [StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion](https://arxiv.org/abs/2107.10394) | **INTERSPEECH 2021 Best Paper Award** | 
 [✔️Code](https://github.com/yl4579/StarGANv2-VC) | 
 [🎧Demo](https://starganv2-vc.github.io/)
@@ -177,10 +181,6 @@ ASRU, SLT
 - [Any-to-Many Voice Conversion with Location-Relative Sequence-to-Sequence Modeling](https://arxiv.org/abs/2009.02725v3) | **IEEE/ACM TASLP 2021/05** | 
 [✔️Code](https://github.com/liusongxiang/ppg-vc) | 
 [🎧Demo](https://liusongxiang.github.io/BNE-Seq2SeqMoL-VC/)
-
-- [MediumVC: Any-to-any voice conversion using synthetic specific-speaker speeches as intermedium features](https://arxiv.org/abs/2110.02500) | 2021/10 | 
-[✔️Code](https://github.com/BrightGu/MediumVC) | 
-[🎧Demo](https://brightgu.github.io/MediumVC/)
 
 [**2020**]
 - [An Overview of Voice Conversion and its Challenges: From Statistical Modeling to Deep Learning](https://arxiv.org/abs/2008.03648) | **IEEE/ACM TASLP 2020/11**
