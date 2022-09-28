@@ -248,19 +248,6 @@ ASRU, SLT
 
 ## Singing Voice Synthesis (Other Key Words: SVS)
 [**2022**]
-- [Deep Learning Approaches in Topics of Singing Information Processing](https://ieeexplore.ieee.org/document/9829265) | **IEEE/ACM TASLP 2022**
-
-- [WeSinger 2: Fully Parallel Singing Voice Synthesis via Multi-Singer Conditional Adversarial Training](https://arxiv.org/abs/2207.01886) | 2022 | 
-[🎧Demo](https://zzw922cn.github.io/wesinger2/)
-
-- [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) | **AAAI 2022** | 
-[✔️Code](https://github.com/MoonInTheRiver/DiffSinger) | 
-[🎧Demo](https://diffsinger.github.io/)
-
-- [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://arxiv.org/abs/2202.13277) | **ACL 2022** | 
-[✔️Code](https://github.com/MoonInTheRiver/NeuralSVB) | 
-[🎧Demo](https://neuralsvb.github.io/)
-
 - [Muskits: an End-to-End Music Processing Toolkit for Singing Voice Synthesis](https://arxiv.org/abs/2205.04029) | **INTERSPEECH 2022** | 
 [✔️Code](https://github.com/SJTMusicTeam/Muskits)
 
@@ -270,12 +257,25 @@ ASRU, SLT
 - [WeSinger: Data-augmented Singing Voice Synthesis with Auxiliary Losses](https://arxiv.org/abs/2203.10750?s=03) | **INTERSPEECH 2022** | 
 [🎧Demo](https://zzw922cn.github.io/wesinger/)
 
+- [WeSinger 2: Fully Parallel Singing Voice Synthesis via Multi-Singer Conditional Adversarial Training](https://arxiv.org/abs/2207.01886) | 2022/08 | 
+[🎧Demo](https://zzw922cn.github.io/wesinger2/)
+
+- [Deep Learning Approaches in Topics of Singing Information Processing](https://ieeexplore.ieee.org/document/9829265) | **IEEE/ACM TASLP 2022/07**
+
+- [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://arxiv.org/abs/2202.13277) | **ACL 2022** | 
+[✔️Code](https://github.com/MoonInTheRiver/NeuralSVB) | 
+[🎧Demo](https://neuralsvb.github.io/)
+
+- [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) | **AAAI 2022** | 
+[✔️Code](https://github.com/MoonInTheRiver/DiffSinger) | 
+[🎧Demo](https://diffsinger.github.io/)
+
 [**2021**]
-- [Sinsy: A Deep Neural Network-Based Singing Voice Synthesis System](https://arxiv.org/abs/2108.02776) | **IEEE/ACM TASLP 2021** | 
+- [Sinsy: A Deep Neural Network-Based Singing Voice Synthesis System](https://arxiv.org/abs/2108.02776) | **IEEE/ACM TASLP 2021/08** | 
 [✔️Code](https://github.com/r9y9/nnsvs)
 
 [**2020**]
-- [HiFiSinger: Towards High-Fidelity Neural Singing Voice Synthesis](https://arxiv.org/abs/2009.01776) | 2020 | 
+- [HiFiSinger: Towards High-Fidelity Neural Singing Voice Synthesis](https://arxiv.org/abs/2009.01776) | 2020/09 | 
 [🎧Demo](https://speechresearch.github.io/hifisinger/) | 
 [Unofficial Code](https://github.com/CODEJIN/HiFiSinger)
 
@@ -308,18 +308,26 @@ ASRU, SLT
 
 ## Vocoder
 [**2022**]
-- [BinauralGrad: A Two-Stage Conditional Diffusion Probabilistic Model for Binaural Audio Synthesis](https://arxiv.org/abs/2205.14807) | **2022** | 
-[🎧Demo](https://speechresearch.github.io/binauralgrad/)
+- [DDSP-based Singing Vocoders: A New Subtractive-based Synthesizer and A Comprehensive Evaluation](https://arxiv.org/abs/2208.04756) | **ISMIR 2022** | 
+[✔️Code](https://github.com/YatingMusic/ddsp-singing-vocoders/) | 
+[🎧Demo](https://ddspvocoder.github.io/ismir-demo/)
 
 - [FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis](https://arxiv.org/abs/2204.09934) | **IJCAI 2022** | 
 [✔️Code](https://github.com/Rongjiehuang/FastDiff) | 
 [🎧Demo](https://fastdiff.github.io/)
 
-- [DDSP-based Singing Vocoders: A New Subtractive-based Synthesizer and A Comprehensive Evaluation](https://arxiv.org/abs/2208.04756) | **ISMIR 2022** | 
-[✔️Code](https://github.com/YatingMusic/ddsp-singing-vocoders/) | 
-[🎧Demo](https://ddspvocoder.github.io/ismir-demo/)
+- [BinauralGrad: A Two-Stage Conditional Diffusion Probabilistic Model for Binaural Audio Synthesis](https://arxiv.org/abs/2205.14807) | **2022/05** | 
+[🎧Demo](https://speechresearch.github.io/binauralgrad/)
 
 [**2021**]
+- [Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus](https://arxiv.org/abs/2112.10358) | **ACM MM 2021** | 
+[🔽Apply&Download](https://github.com/Multi-Singer/Multi-Singer.github.io) | 
+[✔️Code](https://github.com/Rongjiehuang/Multi-Singer) | 
+[🎧Demo](https://multi-singer.github.io/)
+
+- [WaveGrad 2: Iterative Refinement for Text-to-Speech Synthesis](https://arxiv.org/abs/2106.09660) | **INTERSPEECH 2021** | 
+[🎧Demo](https://wavegrad.github.io/v2/)
+
 - [DiffWave: A Versatile Diffusion Model for Audio Synthesis](https://arxiv.org/abs/2009.09761) | **ICLR 2021** | 
 [✔️Code](https://github.com/lmnt-com/diffwave) | 
 [🎧Demo](https://diffwave-demo.github.io/)
@@ -327,25 +335,17 @@ ASRU, SLT
 - [WaveGrad: Estimating Gradients for Waveform Generation](https://arxiv.org/abs/2009.00713) | **ICLR 2021** | 
 [🎧Demo](https://wavegrad.github.io/)
 
-- [WaveGrad 2: Iterative Refinement for Text-to-Speech Synthesis](https://arxiv.org/abs/2106.09660) | **INTERSPEECH 2021** | 
-[🎧Demo](https://wavegrad.github.io/v2/)
-
-- [Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus](https://arxiv.org/abs/2112.10358) | **ACM MM 2021** | 
-[🔽Apply&Download](https://github.com/Multi-Singer/Multi-Singer.github.io) | 
-[✔️Code](https://github.com/Rongjiehuang/Multi-Singer) | 
-[🎧Demo](https://multi-singer.github.io/)
-
 [**2020**]
 - [HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis](https://arxiv.org/abs/2010.05646) | **NeurIPS 2020** | 
 [✔️Code](https://github.com/jik876/hifi-gan) | 
 [🎧Demo](https://jik876.github.io/hifi-gan-demo/)
 
+- [Multi-band MelGAN: Faster Waveform Generation for High-Quality Text-to-Speech](https://arxiv.org/abs/2005.05106) | **INTERSPEECH 2020** | 
+[🎧Demo](https://yanggeng1995.github.io/demo/)
+
 - [Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram](https://arxiv.org/abs/1910.11480) | **ICASSP 2020** | 
 [🎧Demo](https://r9y9.github.io/projects/pwg/) | 
 [Unofficial Code](https://github.com/kan-bayashi/ParallelWaveGAN)
-
-- [Multi-band MelGAN: Faster Waveform Generation for High-Quality Text-to-Speech](https://arxiv.org/abs/2005.05106) | **INTERSPEECH 2020** | 
-[🎧Demo](https://yanggeng1995.github.io/demo/)
 
 [**2019**]
 - [MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis](https://arxiv.org/abs/1910.06711) | **NeurIPS 2019** | 
@@ -375,17 +375,13 @@ ASRU, SLT
 [✔️Code](https://github.com/magenta/mt3) | 
 
 [**2021**]
-- [Omnizart: A General Toolbox for Automatic Music Transcription](https://joss.theoj.org/papers/10.21105/joss.03391) | **The Open Journal 2021** | 
+- [Omnizart: A General Toolbox for Automatic Music Transcription](https://joss.theoj.org/papers/10.21105/joss.03391) | **The Open Journal 2021/12** | 
 [✔️Code](https://github.com/Music-and-Culture-Technology-Lab/omnizart) | 
 [🎧Demo](https://music-and-culture-technology-lab.github.io/omnizart-doc/)
 
 
 ## Self-supervised/Unsupervised ASR
 [**2022**]
-- [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing](https://arxiv.org/abs/2110.13900) | **IEEE JSTSP 2022** | 
-[✔️Code](https://github.com/microsoft/unilm) | 
-[✔️Code](https://github.com/huggingface/transformers)
-
 - [UniSpeech-SAT: Universal Speech Representation Learning with Speaker Aware Pre-Training](https://arxiv.org/abs/2110.05752) | **ICASSP 2022** | 
 [✔️Code](https://github.com/microsoft/UniSpeech) | 
 [✔️Code](https://github.com/huggingface/transformers)
@@ -398,28 +394,32 @@ ASRU, SLT
 [✔️Code](https://github.com/flashlight/wav2letter/tree/main/recipes/mling_pl) | 
 [✔️Code](https://github.com/huggingface/transformers)
 
-[**2021**]
-- [HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/abs/2106.07447) | **IEEE/ACM TASLP 2021** | 
-[✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/hubert) | 
+- [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing](https://arxiv.org/abs/2110.13900) | **IEEE JSTSP 2022/06** | 
+[✔️Code](https://github.com/microsoft/unilm) | 
 [✔️Code](https://github.com/huggingface/transformers)
 
+[**2021**]
 - [UniSpeech: Unified Speech Representation Learning with Labeled and Unlabeled Data](https://arxiv.org/abs/2101.07597) | **ICML 2021** | 
 [✔️Code](https://github.com/cywang97/unispeech) | 
 [✔️Code](https://github.com/microsoft/UniSpeech) | 
 [✔️Code](https://github.com/huggingface/transformers)
 
-- [XLS-R: Self-supervised Cross-lingual Speech Representation Learning at Scale](https://arxiv.org/abs/2111.09296) | 2021 | 
+- [HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/abs/2106.07447) | **IEEE/ACM TASLP 2021/06** | 
+[✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/hubert) | 
+[✔️Code](https://github.com/huggingface/transformers)
+
+- [XLS-R: Self-supervised Cross-lingual Speech Representation Learning at Scale](https://arxiv.org/abs/2111.09296) | 2021/12 | 
 [✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec/xlsr) | 
 [✔️Code](https://github.com/huggingface/transformers)
 
-- [Simple and Effective Zero-shot Cross-lingual Phoneme Recognition](https://arxiv.org/abs/2109.11680) | 2021 | 
+- [Simple and Effective Zero-shot Cross-lingual Phoneme Recognition](https://arxiv.org/abs/2109.11680) | 2021/09 | 
 [✔️Code](https://github.com/facebookresearch/fairseq) | 
 [✔️Code](https://github.com/huggingface/transformers)
 
-[**2020**]
-- [TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech](https://arxiv.org/abs/2007.06028) | **IEEE/ACM TASLP 2020** | 
+- [TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech](https://arxiv.org/abs/2007.06028) | **IEEE/ACM TASLP 2021/08** | 
 [✔️Code](https://github.com/s3prl/s3prl)
 
+[**2020**]
 - [wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://arxiv.org/abs/2006.11477) | **NeurIPS 2020** | 
 [✔️Code](https://github.com/facebookresearch/fairseq) | 
 [✔️Code](https://github.com/huggingface/transformers)
@@ -431,16 +431,16 @@ ASRU, SLT
 - [Mockingjay: Unsupervised Speech Representation Learning with Deep Bidirectional Transformer Encoders](https://arxiv.org/abs/1910.12638) | **ICASSP 2020** | 
 [✔️Code](https://github.com/s3prl/s3prl)
 
+- [Unsupervised Cross-lingual Representation Learning for Speech Recognition](https://arxiv.org/abs/2006.13979) | 2020/06 | 
+[✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec) | 
+[✔️Code](https://github.com/huggingface/transformers)
+
 - [fairseq S2T: Fast Speech-to-Text Modeling with fairseq](https://arxiv.org/abs/2010.05171) | **AACL 2020** | 
 [✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/speech_to_text) | 
 [✔️Code](https://github.com/huggingface/transformers)
 
-- [Unsupervised Cross-lingual Representation Learning for Speech Recognition](https://arxiv.org/abs/2006.13979) | 2020 | 
-[✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec) | 
-[✔️Code](https://github.com/huggingface/transformers)
-
 [**2019**]
-- [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) | 2019 | 
+- [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) | 2019/07 | 
 [✔️Code](https://github.com/facebookresearch/CPC_audio)
 
 
