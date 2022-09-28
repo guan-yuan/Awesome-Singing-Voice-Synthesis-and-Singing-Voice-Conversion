@@ -19,6 +19,10 @@ ASRU, SLT
 
 
 ## Singing Voice Conversion (Other Key Words: SVC, Singing Style Transfer)
+- [ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech](https://arxiv.org/abs/2207.06389) | **ACM MM 2022** | 
+[✔️Code](https://github.com/Rongjiehuang/ProDiff) | 
+[🎧Demo](https://prodiff.github.io/)
+
 - [Improving Adversarial Waveform Generation based Singing Voice Conversion with Harmonic Signals](https://arxiv.org/abs/2201.10130) | **ICASSP 2022** | 
 [🎧Demo](https://hhguo.github.io/DemoHarSVC/)
 
