@@ -399,15 +399,6 @@ ASRU, SLT
 [✔️Code](https://github.com/huggingface/transformers)
 
 [**2021**]
-- [UniSpeech: Unified Speech Representation Learning with Labeled and Unlabeled Data](https://arxiv.org/abs/2101.07597) | **ICML 2021** | 
-[✔️Code](https://github.com/cywang97/unispeech) | 
-[✔️Code](https://github.com/microsoft/UniSpeech) | 
-[✔️Code](https://github.com/huggingface/transformers)
-
-- [HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/abs/2106.07447) | **IEEE/ACM TASLP 2021/06** | 
-[✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/hubert) | 
-[✔️Code](https://github.com/huggingface/transformers)
-
 - [XLS-R: Self-supervised Cross-lingual Speech Representation Learning at Scale](https://arxiv.org/abs/2111.09296) | 2021/12 | 
 [✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec/xlsr) | 
 [✔️Code](https://github.com/huggingface/transformers)
@@ -418,6 +409,15 @@ ASRU, SLT
 
 - [TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech](https://arxiv.org/abs/2007.06028) | **IEEE/ACM TASLP 2021/08** | 
 [✔️Code](https://github.com/s3prl/s3prl)
+
+- [UniSpeech: Unified Speech Representation Learning with Labeled and Unlabeled Data](https://arxiv.org/abs/2101.07597) | **ICML 2021** | 
+[✔️Code](https://github.com/cywang97/unispeech) | 
+[✔️Code](https://github.com/microsoft/UniSpeech) | 
+[✔️Code](https://github.com/huggingface/transformers)
+
+- [HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/abs/2106.07447) | **IEEE/ACM TASLP 2021/06** | 
+[✔️Code](https://github.com/facebookresearch/fairseq/tree/main/examples/hubert) | 
+[✔️Code](https://github.com/huggingface/transformers)
 
 [**2020**]
 - [wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://arxiv.org/abs/2006.11477) | **NeurIPS 2020** | 
