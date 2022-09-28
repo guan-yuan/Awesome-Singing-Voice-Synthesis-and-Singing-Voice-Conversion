@@ -31,11 +31,11 @@ ASRU, SLT
 [🎧Demo](https://hhguo.github.io/DemoHarSVC/)
 
 [**2021**]
-- [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://arxiv.org/abs/2110.12676) | **NeurIPS 2021 Workshop** | 
-[🎧Demo](https://mindslab-ai.github.io/assem-vc/singer/)
-
 - [DiffSVC: A Diffusion Probabilistic Model for Singing Voice Conversion](https://arxiv.org/abs/2105.13871) | **ASRU 2021** | 
 [🎧Demo](https://liusongxiang.github.io/diffsvc/)
+
+- [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://arxiv.org/abs/2110.12676) | **NeurIPS 2021 Workshop** | 
+[🎧Demo](https://mindslab-ai.github.io/assem-vc/singer/)
 
 - [FastSVC: Fast Cross-Domain Singing Voice Conversion with Feature-wise Linear Modulation](https://arxiv.org/abs/2011.05731) | **ICME 2021** | 
 [🎧Demo](https://nobody996.github.io/FastSVC/)
@@ -51,14 +51,14 @@ ASRU, SLT
 - [Zero-shot Singing Voice Conversion](https://program.ismir2020.net/poster_1-08.html) | **ISMIR 2020** | 
 [🎧Demo](https://sites.google.com/izotope.com/ismir2020-audio-demo)
 
-- [PitchNet: Unsupervised Singing Voice Conversion with Pitch Adversarial Network](https://arxiv.org/abs/1912.01852) | **ICASSP 2020** | 
-[🎧Demo](https://tencent-ailab.github.io/pitch-net/)
-
 - [DurIAN-SC: Duration Informed Attention Network based Singing Voice Conversion System](https://arxiv.org/abs/2008.03009) | **INTERSPEECH 2020** | 
 [🎧Demo](https://tencent-ailab.github.io/learning_singing_from_speech/)
 
 - [Unsupervised Cross-Domain Singing Voice Conversion](https://arxiv.org/abs/2008.02830) | **INTERSPEECH 2020** | 
 [🎧Demo](https://singing-conversion.github.io/)
+
+- [PitchNet: Unsupervised Singing Voice Conversion with Pitch Adversarial Network](https://arxiv.org/abs/1912.01852) | **ICASSP 2020** | 
+[🎧Demo](https://tencent-ailab.github.io/pitch-net/)
 
 - [VAW-GAN for Singing Voice Conversion with Non-parallel Training Data](https://arxiv.org/abs/2008.03992) | **APSIPA 2020** | 
 [✔️Code](https://github.com/johndpope/Singing-Voice-Conversion-with-conditional-VAW-GAN) | 
@@ -95,10 +95,11 @@ ASRU, SLT
 
 ## Voice Conversion (Other Key Words: VC, Voice Cloning, Voice Style Transfer)
 [**2022**]
-- [End-to-End Zero-Shot Voice Style Transfer with Location-Variable Convolutions](https://arxiv.org/abs/2205.09784) | 2022 | 
-[🎧Demo](https://lvc-vc.github.io/lvc-vc-demo/)
+- [Learning Noise-independent Speech Representation for High-quality Voice Conversion for Noisy Target Speakers](https://arxiv.org/abs/2207.00756) | **INTERSPEECH 2022** | 
+[🎧Demo](https://lmxue.github.io/FlowVC/)
 
-- [A Comparative Study of Self-supervised Speech Representation Based Voice Conversion](https://arxiv.org/abs/2207.04356) | **IEEE JSTSP 2022**
+- [Glow-WaveGAN 2: High-quality Zero-shot Text-to-speech Synthesis and Any-to-any Voice Conversion](https://arxiv.org/abs/2207.01832) | **INTERSPEECH 2022** | 
+[🎧Demo](https://leiyi420.github.io/glow-wavegan2/)
 
 - [Diffusion-Based Voice Conversion with Fast Maximum Likelihood Sampling Scheme](https://arxiv.org/abs/2109.13821) | **ICLR 2022** | 
 [✔️Code](https://github.com/huawei-noah/Speech-Backbones) | 
@@ -109,6 +110,11 @@ ASRU, SLT
 [🎧Demo](https://huggingface.co/spaces/ICML2022/YourTTS) | 
 [🎧Demo](https://edresson.github.io/YourTTS/) | 
 [📝Blog](https://coqui.ai/blog/tts/yourtts-zero-shot-text-synthesis-low-resource-languages)
+
+- [A Comparative Study of Self-supervised Speech Representation Based Voice Conversion](https://arxiv.org/abs/2207.04356) | **IEEE JSTSP 2022/07**
+
+- [End-to-End Zero-Shot Voice Style Transfer with Location-Variable Convolutions](https://arxiv.org/abs/2205.09784) | 2022/05 | 
+[🎧Demo](https://lvc-vc.github.io/lvc-vc-demo/)
 
 - [S3PRL-VC: Open-Source Voice Conversion Framework with Self-Supervised Speech Representations](https://arxiv.org/abs/2110.06280) | **ICASSP 2022** | 
 [✔️Code](https://github.com/s3prl/s3prl/tree/master/s3prl/downstream/a2o-vc-vcc2020)
@@ -136,29 +142,13 @@ ASRU, SLT
 - [DGC-vector: A new speaker embedding for zero-shot voice conversion](https://arxiv.org/abs/2203.09722) | **ICASSP 2022** | 
 [🎧Demo](https://shaw0fr.github.io/DGC-vector-DEMO/)
 
-- [Learning Noise-independent Speech Representation for High-quality Voice Conversion for Noisy Target Speakers](https://arxiv.org/abs/2207.00756) | **INTERSPEECH 2022** | 
-[🎧Demo](https://lmxue.github.io/FlowVC/)
-
-- [Glow-WaveGAN 2: High-quality Zero-shot Text-to-speech Synthesis and Any-to-any Voice Conversion](https://arxiv.org/abs/2207.01832) | **INTERSPEECH 2022** | 
-[🎧Demo](https://leiyi420.github.io/glow-wavegan2/)
-
 [**2021**]
-- [Any-to-Many Voice Conversion with Location-Relative Sequence-to-Sequence Modeling](https://arxiv.org/abs/2009.02725v3) | **IEEE/ACM TASLP 2021** | 
-[✔️Code](https://github.com/liusongxiang/ppg-vc) | 
-[🎧Demo](https://liusongxiang.github.io/BNE-Seq2SeqMoL-VC/)
+- [On Prosody Modeling for ASR+TTS based Voice Conversion](https://arxiv.org/abs/2107.09477) | **ASRU 2021** | 
+[🎧Demo](https://unilight.github.io/Publication-Demos/publications/prosody-asr-tts-vc/index.html)
 
 - [Neural Analysis and Synthesis: Reconstructing Speech from Self-Supervised Representations](https://arxiv.org/abs/2110.14513) | **NeurIPS 2021** | 
 [🎧Demo](https://harsh-grenadilla-e40.notion.site/Demo-page-for-NANSY-37d4fd8ffb514765a2b234b04c8fc0f6) | 
 [Unofficial Code](https://github.com/dhchoi99/NANSY)
-
-- [Improving Zero-shot Voice Style Transfer via Disentangled Representation Learning](https://arxiv.org/abs/2103.09420) | **ICLR 2021**
-
-- [Global Rhythm Style Transfer Without Text Transcriptions](https://arxiv.org/abs/2106.08519) | **ICML 2021** | 
-[✔️Code](https://github.com/auspicious3000/AutoPST)
-
-- [AGAIN-VC: A One-shot Voice Conversion using Activation Guidance and Adaptive Instance Normalization](https://arxiv.org/abs/2011.00316) | **ICASSP 2021** | 
-[✔️Code](https://github.com/KimythAnly/AGAIN-VC) | 
-[🎧Demo](https://kimythanly.github.io/AGAIN-VC-demo/index)
 
 - [StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion](https://arxiv.org/abs/2107.10394) | **INTERSPEECH 2021 Best Paper Award** | 
 [✔️Code](https://github.com/yl4579/StarGANv2-VC) | 
@@ -175,26 +165,36 @@ ASRU, SLT
 - [Speech Resynthesis from Discrete Disentangled Self-Supervised Representations](https://arxiv.org/abs/2104.00355) | **INTERSPEECH 2021** | 
 [🎧Demo](https://speechbot.github.io/resynthesis/index.html)
 
-- [On Prosody Modeling for ASR+TTS based Voice Conversion](https://arxiv.org/abs/2107.09477) | **ASRU 2021** | 
-[🎧Demo](https://unilight.github.io/Publication-Demos/publications/prosody-asr-tts-vc/index.html)
+- [Improving Zero-shot Voice Style Transfer via Disentangled Representation Learning](https://arxiv.org/abs/2103.09420) | **ICLR 2021**
 
-- [MediumVC: Any-to-any voice conversion using synthetic specific-speaker speeches as intermedium features](https://arxiv.org/abs/2110.02500) | 2021 | 
+- [Global Rhythm Style Transfer Without Text Transcriptions](https://arxiv.org/abs/2106.08519) | **ICML 2021** | 
+[✔️Code](https://github.com/auspicious3000/AutoPST)
+
+- [AGAIN-VC: A One-shot Voice Conversion using Activation Guidance and Adaptive Instance Normalization](https://arxiv.org/abs/2011.00316) | **ICASSP 2021** | 
+[✔️Code](https://github.com/KimythAnly/AGAIN-VC) | 
+[🎧Demo](https://kimythanly.github.io/AGAIN-VC-demo/index)
+
+- [Any-to-Many Voice Conversion with Location-Relative Sequence-to-Sequence Modeling](https://arxiv.org/abs/2009.02725v3) | **IEEE/ACM TASLP 2021/05** | 
+[✔️Code](https://github.com/liusongxiang/ppg-vc) | 
+[🎧Demo](https://liusongxiang.github.io/BNE-Seq2SeqMoL-VC/)
+
+- [MediumVC: Any-to-any voice conversion using synthetic specific-speaker speeches as intermedium features](https://arxiv.org/abs/2110.02500) | 2021/10 | 
 [✔️Code](https://github.com/BrightGu/MediumVC) | 
 [🎧Demo](https://brightgu.github.io/MediumVC/)
 
 [**2020**]
-- [An Overview of Voice Conversion and its Challenges: From Statistical Modeling to Deep Learning](https://arxiv.org/abs/2008.03648) | **IEEE/ACM TASLP 2020**
+- [An Overview of Voice Conversion and its Challenges: From Statistical Modeling to Deep Learning](https://arxiv.org/abs/2008.03648) | **IEEE/ACM TASLP 2020/11**
 
 - [Unsupervised Speech Decomposition via Triple Information Bottleneck](https://arxiv.org/abs/2004.11284) | **ICML 2020** | 
 [✔️Code](https://github.com/auspicious3000/SpeechSplit)
 
 [**2019**]
+- [One-shot Voice Conversion by Separating Speaker and Content Representations with Instance Normalization](https://arxiv.org/abs/1904.05742) | **INTERSPEECH 2019** | 
+[✔️Code](https://github.com/cyhuang-tw/AdaIN-VC)
+
 - [AUTOVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss](https://arxiv.org/abs/1905.05879) | **ICML 2019** | 
 [✔️Code](https://github.com/auspicious3000/autovc) | 
 [🎧Demo](https://auspicious3000.github.io/autovc-demo/)
-
-- [One-shot Voice Conversion by Separating Speaker and Content Representations with Instance Normalization](https://arxiv.org/abs/1904.05742) | **INTERSPEECH 2019** | 
-[✔️Code](https://github.com/cyhuang-tw/AdaIN-VC)
 
 ### Dateset
 - [CSTR VCTK Corpus: English Multi-speaker Corpus for CSTR Voice Cloning Toolkit](https://datashare.ed.ac.uk/handle/10283/3443) | **2019** | 
@@ -219,17 +219,17 @@ ASRU, SLT
 - [Cross-speaker Emotion Transfer Based On Prosody Compensation for End-to-End Speech Synthesis](https://arxiv.org/abs/2207.01198) | **INTERSPEECH 2022** | 
 [🎧Demo](https://silyfox.github.io/cspc/)
 
-- [Emotion Intensity and its Control for Emotional Voice Conversion](https://arxiv.org/abs/2201.03967) | **IEEE Transactions on Affective Computing 2022** | 
+- [Emotion Intensity and its Control for Emotional Voice Conversion](https://arxiv.org/abs/2201.03967) | **IEEE Transactions on Affective Computing 2022/07** | 
 [✔️Code](https://github.com/KunZhou9646/Emovox) | 
 [🎧Demo](https://kunzhou9646.github.io/Emovox_demo/)
+
+- [Textless Speech Emotion Conversion using Discrete and Decomposed Representations](https://arxiv.org/abs/2111.07402) | 202202 | 
+[🎧Demo](https://speechbot.github.io/emotion/)
 
 [**2021**]
 - [Limited Data Emotional Voice Conversion Leveraging Text-to-Speech: Two-stage Sequence-to-Sequence Training](https://arxiv.org/abs/2103.16809) | **INTERSPEECH 2021** | 
 [✔️Code](https://github.com/KunZhou9646/seq2seq-EVC) | 
 [🎧Demo](https://kunzhou9646.github.io/IS21/)
-
-- [Textless Speech Emotion Conversion using Discrete and Decomposed Representations](https://arxiv.org/abs/2111.07402) | 2021 | 
-[🎧Demo](https://speechbot.github.io/emotion/)
 
 [**2020**]
 - [Converting Anyone's Emotion: Towards Speaker-Independent Emotional Voice Conversion](https://arxiv.org/abs/2005.07025) | **INTERSPEECH 2020** | 
