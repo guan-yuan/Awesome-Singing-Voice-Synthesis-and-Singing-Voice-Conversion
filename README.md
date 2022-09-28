@@ -19,6 +19,7 @@ ASRU, SLT
 
 
 ## Singing Voice Conversion (Other Key Words: SVC, Singing Style Transfer)
+[**2022**]
 - [Improving Adversarial Waveform Generation based Singing Voice Conversion with Harmonic Signals](https://arxiv.org/abs/2201.10130) | **ICASSP 2022** | 
 [🎧Demo](https://hhguo.github.io/DemoHarSVC/)
 
